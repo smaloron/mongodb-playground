@@ -7,6 +7,7 @@ services:
       - "27017:27017"
     volumes:
       - mongodb_data:/data/db
+      - ./data:/shared
 
 volumes:
   mongodb_data:
