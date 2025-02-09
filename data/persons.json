@@ -1,235 +1,263 @@
 [
   {
-    "first_name": "Jean",
-    "last_name": "Dupont",
+    "firstName": "Jean",
+    "lastName": "Dupont",
     "gender": "Homme",
-    "birth_date": "1985-04-12",
+    "birthDate": "1985-04-12",
     "nationality": "France",
+    "hobbies": ["Musique", "Jogging"],
+    "computerSkills": ["HTML", "CSS"],
     "address": {
       "street": "10 rue de la Paix",
       "city": "Paris",
-      "postal_code": "75002",
+      "zipCode": "75002",
       "country": "France"
     }
   },
   {
-    "first_name": "Sophie",
-    "last_name": "Martin",
+    "firstName": "Sophie",
+    "lastName": "Martin",
     "gender": "Femme",
-    "birth_date": "1990-07-25",
+    "birthDate": "1990-07-25",
     "nationality": "France",
+    "hobbies": ["Photographie", "Natation"],
+    "computerSkills": ["C++", "QT"],
     "address": {
       "street": "15 avenue des Champs-Élysées",
       "city": "Paris",
-      "postal_code": "75008",
+      "zipCode": "75008",
       "country": "France"
     }
   },
   {
-    "first_name": "Pierre",
-    "last_name": "Lemoine",
+    "firstName": "Pierre",
+    "lastName": "Lemoine",
     "gender": "Homme",
-    "birth_date": "1978-02-03",
+    "birthDate": "1978-02-03",
     "nationality": "France",
+    "hobbies": ["Philatélie", "Musique"],
+    "computerSkills": ["Java", "Spring", "Javascript", "Docker"],
     "address": {
       "street": "22 boulevard Haussmann",
       "city": "Paris",
-      "postal_code": "75009",
+      "zipCode": "75009",
       "country": "France"
     }
   },
   {
-    "first_name": "Nathalie",
-    "last_name": "Durand",
+    "firstName": "Nathalie",
+    "lastName": "Durand",
     "gender": "Femme",
-    "birth_date": "1982-11-15",
+    "birthDate": "1982-11-15",
     "nationality": "France",
+    "hobbies": ["MMA", "Musculation"],
+    "computerSkills": ["C#", "Linq", "Blazor", "Javascript"],
     "address": {
       "street": "5 place Bellecour",
       "city": "Lyon",
-      "postal_code": "69002",
+      "zipCode": "69002",
       "country": "France"
     }
   },
   {
-    "first_name": "Luc",
-    "last_name": "Morel",
+    "firstName": "Luc",
+    "lastName": "Morel",
     "gender": "Homme",
-    "birth_date": "1995-06-30",
+    "birthDate": "1995-06-30",
     "nationality": "France",
+    "hobbies": ["Crossfit", "Randonnée", "Botanique"],
+    "computerSkills": ["PHP", "Symfony", "Javascript"],
     "address": {
       "street": "8 rue Sainte-Catherine",
       "city": "Bordeaux",
-      "postal_code": "33000",
+      "zipCode": "33000",
       "country": "France"
     }
   },
   {
-    "first_name": "Liam",
-    "last_name": "O'Brien",
+    "firstName": "Liam",
+    "lastName": "O'Brien",
     "gender": "Homme",
-    "birth_date": "1987-03-14",
+    "birthDate": "1987-03-14",
     "nationality": "Irlande",
+    "hobbies": ["Escalade", "Chant", "Musique"],
+    "computerSkills": ["C++", "Java", "Python", "Ruby", "Scala", "Erlang", "Elixir"],
     "address": {
       "street": "12 O'Connell Street",
       "city": "Dublin",
-      "postal_code": "D01 P2X3",
+      "zipCode": "D01 P2X3",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Aoife",
-    "last_name": "Murphy",
+    "firstName": "Aoife",
+    "lastName": "Murphy",
     "gender": "Femme",
-    "birth_date": "1992-08-19",
+    "birthDate": "1992-08-19",
     "nationality": "Irlande",
+    "hobbies": ["Jeu de rôle", "Jeu en ligne", "Cuisine"],
+    "computerSkills": ["C++", "C#", "Objective C", "Kotlin"],
     "address": {
       "street": "34 Grafton Street",
       "city": "Dublin",
-      "postal_code": "D02 R3Y4",
+      "zipCode": "D02 R3Y4",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Sean",
-    "last_name": "Kelly",
+    "firstName": "Sean",
+    "lastName": "Kelly",
     "gender": "Homme",
-    "birth_date": "1980-11-25",
+    "birthDate": "1980-11-25",
     "nationality": "Irlande",
+    "hobbies": ["Poker", "Cuisine"],
+    "computerSkills": ["C++"],
     "address": {
       "street": "22 Eyre Square",
       "city": "Galway",
-      "postal_code": "H91 A1B2",
+      "zipCode": "H91 A1B2",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Niamh",
-    "last_name": "Doyle",
+    "firstName": "Niamh",
+    "lastName": "Doyle",
     "gender": "Femme",
-    "birth_date": "1996-04-30",
+    "birthDate": "1996-04-30",
     "nationality": "Irlande",
+    "hobbies": ["Danse", "Escalade", "Sculpture"],
     "address": {
       "street": "18 Oliver Plunkett Street",
       "city": "Cork",
-      "postal_code": "T12 V6C7",
+      "zipCode": "T12 V6C7",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Patrick",
-    "last_name": "O'Connor",
+    "firstName": "Patrick",
+    "lastName": "O'Connor",
     "gender": "Homme",
-    "birth_date": "1975-06-10",
+    "birthDate": "1975-06-10",
     "nationality": "Irlande",
+    "hobbies": ["Escalade", "Jogging"],
     "address": {
       "street": "5 Quay Street",
       "city": "Galway",
-      "postal_code": "H91 D4E5",
+      "zipCode": "H91 D4E5",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Ciara",
-    "last_name": "Walsh",
+    "firstName": "Ciara",
+    "lastName": "Walsh",
     "gender": "Femme",
-    "birth_date": "1999-09-12",
+    "birthDate": "1999-09-12",
     "nationality": "Irlande",
+    "hobbies": ["Danse", "Jogging", "Photographie"],
     "address": {
       "street": "7 St. Patrick's Street",
       "city": "Cork",
-      "postal_code": "T12 G8F9",
+      "zipCode": "T12 G8F9",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Conor",
-    "last_name": "Fitzgerald",
+    "firstName": "Conor",
+    "lastName": "Fitzgerald",
     "gender": "Homme",
-    "birth_date": "1983-12-01",
+    "birthDate": "1983-12-01",
     "nationality": "Irlande",
+    "hobbies": ["Musique", "Jeu de rôle"],
     "address": {
       "street": "14 Henry Street",
       "city": "Limerick",
-      "postal_code": "V94 X5Y6",
+      "zipCode": "V94 X5Y6",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Emma",
-    "last_name": "McCarthy",
+    "firstName": "Emma",
+    "lastName": "McCarthy",
     "gender": "Femme",
-    "birth_date": "1994-07-22",
+    "birthDate": "1994-07-22",
     "nationality": "Irlande",
+    "hobbies": ["Poésie", "Peinture"],
     "address": {
       "street": "9 Grand Parade",
       "city": "Cork",
-      "postal_code": "T12 H3I4",
+      "zipCode": "T12 H3I4",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Ronan",
-    "last_name": "Byrne",
+    "firstName": "Ronan",
+    "lastName": "Byrne",
     "gender": "Homme",
-    "birth_date": "1979-10-05",
+    "birthDate": "1979-10-05",
     "nationality": "Irlande",
+    "hobbies": ["Jeu en ligne", "Cuisine"],
     "address": {
       "street": "3 O'Connell Street",
       "city": "Limerick",
-      "postal_code": "V94 J6K7",
+      "zipCode": "V94 J6K7",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Saoirse",
-    "last_name": "O'Sullivan",
+    "firstName": "Saoirse",
+    "lastName": "O'Sullivan",
     "gender": "Femme",
-    "birth_date": "2000-05-18",
+    "birthDate": "2000-05-18",
     "nationality": "Irlande",
+    "hobbies": ["Natation", "Voile"],
     "address": {
       "street": "11 Dame Street",
       "city": "Dublin",
-      "postal_code": "D02 T8U9",
+      "zipCode": "D02 T8U9",
       "country": "Irlande"
     }
   },
   {
-    "first_name": "Douglas",
-    "last_name": "MacLeod",
+    "firstName": "Douglas",
+    "lastName": "MacLeod",
     "gender": "Homme",
-    "birth_date": "1988-05-20",
+    "birthDate": "1988-05-20",
     "nationality": "Écosse",
+    "hobbies": ["Voile", "Jogging", "Informatique", "Musique"],
     "address": {
       "street": "25 rue de Rivoli",
       "city": "Paris",
-      "postal_code": "75004",
+      "zipCode": "75004",
       "country": "France"
     }
   },
   {
-    "first_name": "Carlos",
-    "last_name": "Fernandez",
+    "firstName": "Carlos",
+    "lastName": "Fernandez",
     "gender": "Homme",
-    "birth_date": "1988-05-20",
+    "birthDate": "1988-05-20",
     "nationality": "Espagne",
+    "hobbies": ["Musique", "Peinture", "Cuisine"],
+    "computerSkills": ["HTML", "CSS", "Javascript"],
     "address": {
       "street": "25 rue Lafayette",
       "city": "Paris",
-      "postal_code": "75009",
+      "zipCode": "75009",
       "country": "France"
     }
   },
   {
-    "first_name": "Frederik",
-    "last_name": "Jensen",
+    "firstName": "Frederik",
+    "lastName": "Jensen",
     "gender": "Homme",
-    "birth_date": "1988-05-14",
+    "birthDate": "1988-05-14",
     "nationality": "Danemark",
+    "hobbies": ["Voile", "Plongée sous-marine", "Botanique", "Zoologie"],
+    "computerSkills": ["C++", "Java"],
     "address": {
       "street": "20 Dawson Street",
       "city": "Dublin",
-      "postal_code": "D02 H5Y6",
+      "zipCode": "D02 H5Y6",
       "country": "Irlande"
     }
   }
