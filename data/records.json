@@ -1,0 +1,1916 @@
+[
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "genres": [
+      "Pop",
+      "Rock",
+      "R&B"
+    ],
+    "releaseDate": "1982-11-30",
+    "duration": 42.19,
+    "musicians": [
+      "Michael Jackson",
+      "Eddie Van Halen",
+      "Paul Jackson Jr.",
+      "Louis Johnson",
+      "Greg Phillinganes"
+    ],
+    "songs": [
+      {
+        "title": "Wanna Be Startin' Somethin'",
+        "order": 1,
+        "duration": 6.02
+      },
+      {
+        "title": "Baby Be Mine",
+        "order": 2,
+        "duration": 4.20
+      },
+      {
+        "title": "The Girl Is Mine",
+        "order": 3,
+        "duration": 3.42
+      },
+      {
+        "title": "Thriller",
+        "order": 4,
+        "duration": 5.57
+      },
+      {
+        "title": "Beat It",
+        "order": 5,
+        "duration": 4.18
+      },
+      {
+        "title": "Billie Jean",
+        "order": 6,
+        "duration": 4.54
+      },
+      {
+        "title": "Human Nature",
+        "order": 7,
+        "duration": 4.06
+      },
+      {
+        "title": "P.Y.T. (Pretty Young Thing)",
+        "order": 8,
+        "duration": 3.58
+      },
+      {
+        "title": "The Lady in My Life",
+        "order": 9,
+        "duration": 4.57
+      }
+    ]
+  },
+  {
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "genres": [
+      "Hard Rock"
+    ],
+    "releaseDate": "1980-07-25",
+    "duration": 41.59,
+    "musicians": [
+      "Angus Young",
+      "Malcolm Young",
+      "Brian Johnson",
+      "Cliff Williams",
+      "Phil Rudd"
+    ],
+    "songs": [
+      {
+        "title": "Hells Bells",
+        "order": 1,
+        "duration": 5.12
+      },
+      {
+        "title": "Shoot to Thrill",
+        "order": 2,
+        "duration": 5.17
+      },
+      {
+        "title": "What Do You Do for Money Honey",
+        "order": 3,
+        "duration": 3.33
+      },
+      {
+        "title": "Givin the Dog a Bone",
+        "order": 4,
+        "duration": 3.31
+      },
+      {
+        "title": "Let Me Put My Love Into You",
+        "order": 5,
+        "duration": 4.16
+      },
+      {
+        "title": "Back in Black",
+        "order": 6,
+        "duration": 4.15
+      },
+      {
+        "title": "You Shook Me All Night Long",
+        "order": 7,
+        "duration": 3.30
+      },
+      {
+        "title": "Have a Drink on Me",
+        "order": 8,
+        "duration": 3.58
+      },
+      {
+        "title": "Shake a Leg",
+        "order": 9,
+        "duration": 4.06
+      },
+      {
+        "title": "Rock and Roll Ain't Noise Pollution",
+        "order": 10,
+        "duration": 4.12
+      }
+    ]
+  },
+  {
+    "title": "Horses",
+    "artist": "Patti Smith",
+    "genres": [
+      "Punk Rock",
+      "Art Rock"
+    ],
+    "releaseDate": "1975-12-13",
+    "duration": 43.10,
+    "musicians": [
+      "Patti Smith",
+      "Lenny Kaye",
+      "Richard Sohl",
+      "Ivan Kral",
+      "Jay Dee Daugherty"
+    ],
+    "songs": [
+      {
+        "title": "Gloria",
+        "order": 1,
+        "duration": 5.56
+      },
+      {
+        "title": "Redondo Beach",
+        "order": 2,
+        "duration": 3.26
+      },
+      {
+        "title": "Birdland",
+        "order": 3,
+        "duration": 9.14
+      },
+      {
+        "title": "Free Money",
+        "order": 4,
+        "duration": 3.51
+      },
+      {
+        "title": "Kimberly",
+        "order": 5,
+        "duration": 4.27
+      },
+      {
+        "title": "Break It Up",
+        "order": 6,
+        "duration": 4.04
+      },
+      {
+        "title": "Land",
+        "order": 7,
+        "duration": 9.26
+      },
+      {
+        "title": "Elegie",
+        "order": 8,
+        "duration": 2.41
+      }
+    ]
+  },
+  {
+    "title": "Easter",
+    "artist": "Patti Smith",
+    "genres": [
+      "Punk Rock",
+      "New Wave"
+    ],
+    "releaseDate": "1978-03-03",
+    "duration": 40.30,
+    "musicians": [
+      "Patti Smith",
+      "Lenny Kaye",
+      "Richard Sohl",
+      "Ivan Kral",
+      "Jay Dee Daugherty"
+    ],
+    "songs": [
+      {
+        "title": "Till Victory",
+        "order": 1,
+        "duration": 2.50
+      },
+      {
+        "title": "Space Monkey",
+        "order": 2,
+        "duration": 4.05
+      },
+      {
+        "title": "Because the Night",
+        "order": 3,
+        "duration": 3.25
+      },
+      {
+        "title": "Ghost Dance",
+        "order": 4,
+        "duration": 4.40
+      },
+      {
+        "title": "Babelogue",
+        "order": 5,
+        "duration": 1.30
+      },
+      {
+        "title": "Rock n Roll Nigger",
+        "order": 6,
+        "duration": 3.14
+      },
+      {
+        "title": "Privilege (Set Me Free)",
+        "order": 7,
+        "duration": 3.27
+      },
+      {
+        "title": "We Three",
+        "order": 8,
+        "duration": 4.19
+      },
+      {
+        "title": "25th Floor",
+        "order": 9,
+        "duration": 4.01
+      },
+      {
+        "title": "High on Rebellion",
+        "order": 10,
+        "duration": 2.37
+      },
+      {
+        "title": "Easter",
+        "order": 11,
+        "duration": 6.17
+      }
+    ]
+  },
+  {
+    "title": "Wave",
+    "artist": "Patti Smith",
+    "genres": [
+      "Rock",
+      "New Wave"
+    ],
+    "releaseDate": "1979-05-17",
+    "duration": 37.40,
+    "musicians": [
+      "Patti Smith",
+      "Lenny Kaye",
+      "Richard Sohl",
+      "Ivan Kral",
+      "Jay Dee Daugherty"
+    ],
+    "songs": [
+      {
+        "title": "Frederick",
+        "order": 1,
+        "duration": 3.01
+      },
+      {
+        "title": "Dancing Barefoot",
+        "order": 2,
+        "duration": 4.18
+      },
+      {
+        "title": "So You Want to Be (A Rock 'n' Roll Star)",
+        "order": 3,
+        "duration": 4.20
+      },
+      {
+        "title": "Hymn",
+        "order": 4,
+        "duration": 1.10
+      },
+      {
+        "title": "Revenge",
+        "order": 5,
+        "duration": 2.57
+      },
+      {
+        "title": "Citizen Ship",
+        "order": 6,
+        "duration": 5.09
+      },
+      {
+        "title": "Seven Ways of Going",
+        "order": 7,
+        "duration": 5.13
+      },
+      {
+        "title": "Broken Flag",
+        "order": 8,
+        "duration": 4.55
+      },
+      {
+        "title": "Wave",
+        "order": 9,
+        "duration": 4.55
+      }
+    ]
+  },
+  {
+    "title": "Do or Die",
+    "artist": "Dropkick Murphys",
+    "genres": [
+      "Celtic Punk",
+      "Punk Rock"
+    ],
+    "releaseDate": "1998-01-27",
+    "duration": 41.23,
+    "musicians": [
+      "Al Barr",
+      "Ken Casey",
+      "Rick Barton",
+      "Matt Kelly"
+    ],
+    "songs": [
+      {
+        "title": "Cadence to Arms",
+        "order": 1,
+        "duration": 1.49
+      },
+      {
+        "title": "Do or Die",
+        "order": 2,
+        "duration": 1.50
+      },
+      {
+        "title": "Get Up",
+        "order": 3,
+        "duration": 2.06
+      },
+      {
+        "title": "Never Alone",
+        "order": 4,
+        "duration": 2.54
+      },
+      {
+        "title": "Caught in a Jar",
+        "order": 5,
+        "duration": 2.18
+      },
+      {
+        "title": "Memories Remain",
+        "order": 6,
+        "duration": 2.26
+      },
+      {
+        "title": "Road of the Righteous",
+        "order": 7,
+        "duration": 2.50
+      },
+      {
+        "title": "Far Away Coast",
+        "order": 8,
+        "duration": 2.41
+      },
+      {
+        "title": "Fightstarter Karaoke",
+        "order": 9,
+        "duration": 2.00
+      },
+      {
+        "title": "Barroom Hero",
+        "order": 10,
+        "duration": 2.57
+      },
+      {
+        "title": "3rd Man In",
+        "order": 11,
+        "duration": 2.18
+      },
+      {
+        "title": "Tenant Enemy #1",
+        "order": 12,
+        "duration": 2.12
+      },
+      {
+        "title": "Finnegan's Wake",
+        "order": 13,
+        "duration": 2.19
+      },
+      {
+        "title": "Noble",
+        "order": 14,
+        "duration": 2.34
+      },
+      {
+        "title": "Boys on the Docks",
+        "order": 15,
+        "duration": 3.30
+      },
+      {
+        "title": "Skinhead on the MBTA",
+        "order": 16,
+        "duration": 3.47
+      }
+    ]
+  },
+  {
+    "title": "The Warrior's Code",
+    "artist": "Dropkick Murphys",
+    "genres": [
+      "Celtic Punk",
+      "Punk Rock"
+    ],
+    "releaseDate": "2005-06-21",
+    "duration": 41.35,
+    "musicians": [
+      "Al Barr",
+      "Ken Casey",
+      "James Lynch",
+      "Marc Orrell",
+      "Tim Brennan",
+      "Scruffy Wallace",
+      "Matt Kelly"
+    ],
+    "songs": [
+      {
+        "title": "Your Spirit's Alive",
+        "order": 1,
+        "duration": 2.21
+      },
+      {
+        "title": "The Warrior's Code",
+        "order": 2,
+        "duration": 2.31
+      },
+      {
+        "title": "Captain Kelly's Kitchen",
+        "order": 3,
+        "duration": 2.48
+      },
+      {
+        "title": "The Walking Dead",
+        "order": 4,
+        "duration": 2.07
+      },
+      {
+        "title": "Sunshine Highway",
+        "order": 5,
+        "duration": 3.22
+      },
+      {
+        "title": "Wicked Sensitive Crew",
+        "order": 6,
+        "duration": 2.59
+      },
+      {
+        "title": "The Burden",
+        "order": 7,
+        "duration": 2.55
+      },
+      {
+        "title": "Citizen C.I.A.",
+        "order": 8,
+        "duration": 2.20
+      },
+      {
+        "title": "The Green Fields of France",
+        "order": 9,
+        "duration": 4.45
+      },
+      {
+        "title": "Take It and Run",
+        "order": 10,
+        "duration": 2.44
+      },
+      {
+        "title": "I'm Shipping Up to Boston",
+        "order": 11,
+        "duration": 2.33
+      },
+      {
+        "title": "The Auld Triangle",
+        "order": 12,
+        "duration": 2.41
+      },
+      {
+        "title": "Last Letter Home",
+        "order": 13,
+        "duration": 3.25
+      },
+      {
+        "title": "Tessie",
+        "order": 14,
+        "duration": 4.15
+      }
+    ]
+  },
+  {
+    "title": "Signed and Sealed in Blood",
+    "artist": "Dropkick Murphys",
+    "genres": [
+      "Celtic Punk",
+      "Punk Rock"
+    ],
+    "releaseDate": "2013-01-08",
+    "duration": 40.25,
+    "musicians": [
+      "Al Barr",
+      "Ken Casey",
+      "James Lynch",
+      "Tim Brennan",
+      "Jeff DaRosa",
+      "Scruffy Wallace",
+      "Matt Kelly"
+    ],
+    "songs": [
+      {
+        "title": "The Boys Are Back",
+        "order": 1,
+        "duration": 3.19
+      },
+      {
+        "title": "Prisoner’s Song",
+        "order": 2,
+        "duration": 2.46
+      },
+      {
+        "title": "Rose Tattoo",
+        "order": 3,
+        "duration": 5.06
+      },
+      {
+        "title": "Burn",
+        "order": 4,
+        "duration": 2.39
+      },
+      {
+        "title": "Jimmy Collins' Wake",
+        "order": 5,
+        "duration": 2.59
+      },
+      {
+        "title": "The Season's Upon Us",
+        "order": 6,
+        "duration": 4.02
+      },
+      {
+        "title": "The Battle Rages On",
+        "order": 7,
+        "duration": 2.17
+      },
+      {
+        "title": "Don't Tear Us Apart",
+        "order": 8,
+        "duration": 3.01
+      },
+      {
+        "title": "My Hero",
+        "order": 9,
+        "duration": 2.44
+      },
+      {
+        "title": "Out on the Town",
+        "order": 10,
+        "duration": 3.02
+      },
+      {
+        "title": "Out of Our Heads",
+        "order": 11,
+        "duration": 3.12
+      },
+      {
+        "title": "End of the Night",
+        "order": 12,
+        "duration": 5.24
+      }
+    ]
+  },
+  {
+    "title": "Ride On",
+    "artist": "Christy Moore",
+    "genres": [
+      "Folk",
+      "Irish Traditional"
+    ],
+    "releaseDate": "1984-10-01",
+    "duration": 42.15,
+    "musicians": [
+      "Christy Moore",
+      "Dónal Lunny",
+      "Declan Sinnott",
+      "Jimmy Faulkner"
+    ],
+    "songs": [
+      {
+        "title": "The City of Chicago",
+        "order": 1,
+        "duration": 2.55
+      },
+      {
+        "title": "Ride On",
+        "order": 2,
+        "duration": 4.08
+      },
+      {
+        "title": "Viva La Quinta Brigada",
+        "order": 3,
+        "duration": 5.25
+      },
+      {
+        "title": "Lisdoonvarna",
+        "order": 4,
+        "duration": 4.29
+      },
+      {
+        "title": "The Dying Soldier",
+        "order": 5,
+        "duration": 3.30
+      },
+      {
+        "title": "El Salvador",
+        "order": 6,
+        "duration": 3.41
+      },
+      {
+        "title": "McIlhatton",
+        "order": 7,
+        "duration": 2.47
+      },
+      {
+        "title": "Among the Wicklow Hills",
+        "order": 8,
+        "duration": 3.50
+      },
+      {
+        "title": "Sonny's Dream",
+        "order": 9,
+        "duration": 4.07
+      },
+      {
+        "title": "The Least We Can Do",
+        "order": 10,
+        "duration": 3.23
+      }
+    ]
+  },
+  {
+    "title": "Ordinary Man",
+    "artist": "Christy Moore",
+    "genres": [
+      "Folk",
+      "Irish Traditional"
+    ],
+    "releaseDate": "1985-07-01",
+    "duration": 39.50,
+    "musicians": [
+      "Christy Moore",
+      "Dónal Lunny",
+      "Declan Sinnott",
+      "Noel Bridgeman"
+    ],
+    "songs": [
+      {
+        "title": "Sweet Music Roll On",
+        "order": 1,
+        "duration": 3.25
+      },
+      {
+        "title": "Delirium Tremens",
+        "order": 2,
+        "duration": 4.05
+      },
+      {
+        "title": "Ordinary Man",
+        "order": 3,
+        "duration": 3.39
+      },
+      {
+        "title": "Matty",
+        "order": 4,
+        "duration": 4.15
+      },
+      {
+        "title": "The Reel in the Flickering Light",
+        "order": 5,
+        "duration": 2.56
+      },
+      {
+        "title": "The Diamondtina Drover",
+        "order": 6,
+        "duration": 4.10
+      },
+      {
+        "title": "Blantyre Explosion",
+        "order": 7,
+        "duration": 3.40
+      },
+      {
+        "title": "Hard Cases",
+        "order": 8,
+        "duration": 3.35
+      },
+      {
+        "title": "Continental Ceili",
+        "order": 9,
+        "duration": 4.00
+      },
+      {
+        "title": "St. Brendan's Voyage",
+        "order": 10,
+        "duration": 5.05
+      }
+    ]
+  },
+  {
+    "title": "Voyage",
+    "artist": "Christy Moore",
+    "genres": [
+      "Folk",
+      "Irish Traditional"
+    ],
+    "releaseDate": "1989-10-01",
+    "duration": 41.30,
+    "musicians": [
+      "Christy Moore",
+      "Dónal Lunny",
+      "Declan Sinnott",
+      "Andy Irvine"
+    ],
+    "songs": [
+      {
+        "title": "The Voyage",
+        "order": 1,
+        "duration": 4.10
+      },
+      {
+        "title": "Missing You",
+        "order": 2,
+        "duration": 4.20
+      },
+      {
+        "title": "Joxer Goes to Stuttgart",
+        "order": 3,
+        "duration": 5.30
+      },
+      {
+        "title": "The Mad Lady and Me",
+        "order": 4,
+        "duration": 4.25
+      },
+      {
+        "title": "The Ballad of Ruby Walsh",
+        "order": 5,
+        "duration": 3.50
+      },
+      {
+        "title": "Lisdoonvarna (Live)",
+        "order": 6,
+        "duration": 5.05
+      },
+      {
+        "title": "Beeswing",
+        "order": 7,
+        "duration": 4.15
+      },
+      {
+        "title": "Smoke & Strong Whiskey",
+        "order": 8,
+        "duration": 3.40
+      },
+      {
+        "title": "Bright Blue Rose",
+        "order": 9,
+        "duration": 3.35
+      },
+      {
+        "title": "The Rose of Tralee",
+        "order": 10,
+        "duration": 3.55
+      }
+    ]
+  },
+  {
+    "title": "A Night at the Opera",
+    "artist": "Queen",
+    "genres": [
+      "Rock",
+      "Progressive Rock"
+    ],
+    "releaseDate": "1975-11-21",
+    "duration": 43.08,
+    "musicians": [
+      "Freddie Mercury",
+      "Brian May",
+      "Roger Taylor",
+      "John Deacon"
+    ],
+    "songs": [
+      {
+        "title": "Death on Two Legs",
+        "order": 1,
+        "duration": 3.43
+      },
+      {
+        "title": "Lazing on a Sunday Afternoon",
+        "order": 2,
+        "duration": 1.07
+      },
+      {
+        "title": "I'm in Love with My Car",
+        "order": 3,
+        "duration": 3.05
+      },
+      {
+        "title": "You're My Best Friend",
+        "order": 4,
+        "duration": 2.50
+      },
+      {
+        "title": "'39",
+        "order": 5,
+        "duration": 3.30
+      },
+      {
+        "title": "Sweet Lady",
+        "order": 6,
+        "duration": 4.03
+      },
+      {
+        "title": "Seaside Rendezvous",
+        "order": 7,
+        "duration": 2.13
+      },
+      {
+        "title": "The Prophet's Song",
+        "order": 8,
+        "duration": 8.20
+      },
+      {
+        "title": "Love of My Life",
+        "order": 9,
+        "duration": 3.38
+      },
+      {
+        "title": "Good Company",
+        "order": 10,
+        "duration": 3.26
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "order": 11,
+        "duration": 5.55
+      },
+      {
+        "title": "God Save the Queen",
+        "order": 12,
+        "duration": 1.15
+      }
+    ]
+  },
+  {
+    "title": "News of the World",
+    "artist": "Queen",
+    "genres": [
+      "Rock",
+      "Hard Rock"
+    ],
+    "releaseDate": "1977-10-28",
+    "duration": 39.29,
+    "musicians": [
+      "Freddie Mercury",
+      "Brian May",
+      "Roger Taylor",
+      "John Deacon"
+    ],
+    "songs": [
+      {
+        "title": "We Will Rock You",
+        "order": 1,
+        "duration": 2.02
+      },
+      {
+        "title": "We Are the Champions",
+        "order": 2,
+        "duration": 2.59
+      },
+      {
+        "title": "Sheer Heart Attack",
+        "order": 3,
+        "duration": 3.26
+      },
+      {
+        "title": "All Dead, All Dead",
+        "order": 4,
+        "duration": 3.10
+      },
+      {
+        "title": "Spread Your Wings",
+        "order": 5,
+        "duration": 4.34
+      },
+      {
+        "title": "Fight from the Inside",
+        "order": 6,
+        "duration": 3.03
+      },
+      {
+        "title": "Get Down, Make Love",
+        "order": 7,
+        "duration": 3.51
+      },
+      {
+        "title": "Sleeping on the Sidewalk",
+        "order": 8,
+        "duration": 3.06
+      },
+      {
+        "title": "Who Needs You",
+        "order": 9,
+        "duration": 3.07
+      },
+      {
+        "title": "It's Late",
+        "order": 10,
+        "duration": 6.26
+      },
+      {
+        "title": "My Melancholy Blues",
+        "order": 11,
+        "duration": 3.29
+      }
+    ]
+  },
+  {
+    "title": "The Game",
+    "artist": "Queen",
+    "genres": [
+      "Rock",
+      "Pop Rock"
+    ],
+    "releaseDate": "1980-06-30",
+    "duration": 35.39,
+    "musicians": [
+      "Freddie Mercury",
+      "Brian May",
+      "Roger Taylor",
+      "John Deacon"
+    ],
+    "songs": [
+      {
+        "title": "Play the Game",
+        "order": 1,
+        "duration": 3.30
+      },
+      {
+        "title": "Dragon Attack",
+        "order": 2,
+        "duration": 4.18
+      },
+      {
+        "title": "Another One Bites the Dust",
+        "order": 3,
+        "duration": 3.35
+      },
+      {
+        "title": "Need Your Loving Tonight",
+        "order": 4,
+        "duration": 2.49
+      },
+      {
+        "title": "Crazy Little Thing Called Love",
+        "order": 5,
+        "duration": 2.42
+      },
+      {
+        "title": "Rock It (Prime Jive)",
+        "order": 6,
+        "duration": 4.32
+      },
+      {
+        "title": "Don't Try Suicide",
+        "order": 7,
+        "duration": 3.52
+      },
+      {
+        "title": "Sail Away Sweet Sister",
+        "order": 8,
+        "duration": 3.32
+      },
+      {
+        "title": "Coming Soon",
+        "order": 9,
+        "duration": 2.51
+      },
+      {
+        "title": "Save Me",
+        "order": 10,
+        "duration": 3.48
+      }
+    ]
+  },
+  {
+    "title": "Barbara chante Barbara",
+    "artist": "Barbara",
+    "genres": [
+      "Chanson française"
+    ],
+    "releaseDate": "1964-06-01",
+    "duration": 34.50,
+    "musicians": [
+      "Barbara",
+      "Roland Romanelli"
+    ],
+    "songs": [
+      {
+        "title": "Dis, quand reviendras-tu?",
+        "order": 1,
+        "duration": 3.50
+      },
+      {
+        "title": "Le temps du lilas",
+        "order": 2,
+        "duration": 3.25
+      },
+      {
+        "title": "Pierre",
+        "order": 3,
+        "duration": 2.58
+      },
+      {
+        "title": "J'entends sonner les clairons",
+        "order": 4,
+        "duration": 3.15
+      },
+      {
+        "title": "Nantes",
+        "order": 5,
+        "duration": 3.53
+      },
+      {
+        "title": "Au bois de Saint-Amand",
+        "order": 6,
+        "duration": 2.45
+      },
+      {
+        "title": "Ce matin-là",
+        "order": 7,
+        "duration": 3.22
+      },
+      {
+        "title": "Églantine",
+        "order": 8,
+        "duration": 3.10
+      },
+      {
+        "title": "Drouot",
+        "order": 9,
+        "duration": 3.37
+      },
+      {
+        "title": "Göttingen",
+        "order": 10,
+        "duration": 4.25
+      }
+    ]
+  },
+  {
+    "title": "La Louve",
+    "artist": "Barbara",
+    "genres": [
+      "Chanson française"
+    ],
+    "releaseDate": "1973-09-01",
+    "duration": 40.05,
+    "musicians": [
+      "Barbara",
+      "Roland Romanelli"
+    ],
+    "songs": [
+      {
+        "title": "La Louve",
+        "order": 1,
+        "duration": 3.12
+      },
+      {
+        "title": "Mon enfance",
+        "order": 2,
+        "duration": 4.10
+      },
+      {
+        "title": "Perlimpinpin",
+        "order": 3,
+        "duration": 3.50
+      },
+      {
+        "title": "Le Soleil noir",
+        "order": 4,
+        "duration": 4.25
+      },
+      {
+        "title": "À peine",
+        "order": 5,
+        "duration": 3.30
+      },
+      {
+        "title": "Dix-sept ans",
+        "order": 6,
+        "duration": 4.00
+      },
+      {
+        "title": "Le Grenier",
+        "order": 7,
+        "duration": 3.55
+      },
+      {
+        "title": "L'Homme en habit rouge",
+        "order": 8,
+        "duration": 4.20
+      },
+      {
+        "title": "Marienbad",
+        "order": 9,
+        "duration": 4.23
+      }
+    ]
+  },
+  {
+    "title": "Barbara",
+    "artist": "Barbara",
+    "genres": [
+      "Chanson française"
+    ],
+    "releaseDate": "1996-11-12",
+    "duration": 43.30,
+    "musicians": [
+      "Barbara",
+      "Gérard Daguerre"
+    ],
+    "songs": [
+      {
+        "title": "Septembre",
+        "order": 1,
+        "duration": 3.45
+      },
+      {
+        "title": "Du bout des lèvres",
+        "order": 2,
+        "duration": 4.15
+      },
+      {
+        "title": "L'Aigle noir",
+        "order": 3,
+        "duration": 4.55
+      },
+      {
+        "title": "Il automne",
+        "order": 4,
+        "duration": 3.50
+      },
+      {
+        "title": "Les Voyages",
+        "order": 5,
+        "duration": 4.10
+      },
+      {
+        "title": "Clair de nuit",
+        "order": 6,
+        "duration": 3.35
+      },
+      {
+        "title": "Vienne",
+        "order": 7,
+        "duration": 4.25
+      },
+      {
+        "title": "Sid'amour à mort",
+        "order": 8,
+        "duration": 3.50
+      },
+      {
+        "title": "À mourir pour mourir",
+        "order": 9,
+        "duration": 3.55
+      },
+      {
+        "title": "Ma plus belle histoire d'amour",
+        "order": 10,
+        "duration": 4.30
+      }
+    ]
+  },
+  {
+    "title": "Joker",
+    "artist": "Clarika",
+    "genres": [
+      "Chanson Française",
+      "Pop"
+    ],
+    "releaseDate": "1993-10-01",
+    "duration": 38.45,
+    "musicians": [
+      "Clarika",
+      "Jean-Jacques Nyssen",
+      "Nicolas Fiszman",
+      "Philippe Entressangle"
+    ],
+    "songs": [
+      {
+        "title": "J'te prends quand je t'aime",
+        "order": 1,
+        "duration": 3.22
+      },
+      {
+        "title": "Voleur de cendres",
+        "order": 2,
+        "duration": 4.10
+      },
+      {
+        "title": "Hôtel blanc",
+        "order": 3,
+        "duration": 3.35
+      },
+      {
+        "title": "Vite fait",
+        "order": 4,
+        "duration": 3.50
+      },
+      {
+        "title": "Joker",
+        "order": 5,
+        "duration": 4.05
+      },
+      {
+        "title": "T'es beau",
+        "order": 6,
+        "duration": 3.42
+      },
+      {
+        "title": "Sur un fil",
+        "order": 7,
+        "duration": 4.30
+      },
+      {
+        "title": "Entre elle et moi",
+        "order": 8,
+        "duration": 3.55
+      },
+      {
+        "title": "Sale dimanche",
+        "order": 9,
+        "duration": 3.46
+      },
+      {
+        "title": "Banal",
+        "order": 10,
+        "duration": 3.40
+      }
+    ]
+  },
+  {
+    "title": "Ça s'peut pas",
+    "artist": "Clarika",
+    "genres": [
+      "Chanson Française",
+      "Pop"
+    ],
+    "releaseDate": "1996-09-30",
+    "duration": 41.20,
+    "musicians": [
+      "Clarika",
+      "Jean-Jacques Nyssen",
+      "Nicolas Fiszman",
+      "François Poggio"
+    ],
+    "songs": [
+      {
+        "title": "Lâche-moi",
+        "order": 1,
+        "duration": 3.55
+      },
+      {
+        "title": "Ça s'peut pas",
+        "order": 2,
+        "duration": 4.12
+      },
+      {
+        "title": "Le rêve",
+        "order": 3,
+        "duration": 3.58
+      },
+      {
+        "title": "Pas les mêmes",
+        "order": 4,
+        "duration": 3.47
+      },
+      {
+        "title": "Mine de rien",
+        "order": 5,
+        "duration": 4.20
+      },
+      {
+        "title": "Monsieur tout le monde",
+        "order": 6,
+        "duration": 3.50
+      },
+      {
+        "title": "Déroutée",
+        "order": 7,
+        "duration": 4.07
+      },
+      {
+        "title": "Dans ma tête",
+        "order": 8,
+        "duration": 3.40
+      },
+      {
+        "title": "D'accord",
+        "order": 9,
+        "duration": 3.55
+      },
+      {
+        "title": "Plus ou moins",
+        "order": 10,
+        "duration": 4.16
+      }
+    ]
+  },
+  {
+    "title": "De quoi faire battre mon cœur",
+    "artist": "Clarika",
+    "genres": [
+      "Chanson Française",
+      "Pop"
+    ],
+    "releaseDate": "2016-03-11",
+    "duration": 39.50,
+    "musicians": [
+      "Clarika",
+      "Jean-Jacques Nyssen",
+      "Cyrille Nobilet",
+      "Sébastien Buffet"
+    ],
+    "songs": [
+      {
+        "title": "Les garçons dans les vestiaires",
+        "order": 1,
+        "duration": 3.30
+      },
+      {
+        "title": "Je ne te dirai pas",
+        "order": 2,
+        "duration": 4.05
+      },
+      {
+        "title": "Venise",
+        "order": 3,
+        "duration": 3.48
+      },
+      {
+        "title": "Qu'est-ce que tu crois ?",
+        "order": 4,
+        "duration": 3.42
+      },
+      {
+        "title": "De quoi faire battre mon cœur",
+        "order": 5,
+        "duration": 4.09
+      },
+      {
+        "title": "Mon ange",
+        "order": 6,
+        "duration": 3.50
+      },
+      {
+        "title": "Tout le monde veut la même chose",
+        "order": 7,
+        "duration": 3.58
+      },
+      {
+        "title": "Je t'aimais mieux",
+        "order": 8,
+        "duration": 3.37
+      },
+      {
+        "title": "La chanson du bon vieux temps",
+        "order": 9,
+        "duration": 3.53
+      },
+      {
+        "title": "Pas grand-chose",
+        "order": 10,
+        "duration": 4.08
+      }
+    ]
+  },
+  {
+    "title": "Il suffit d'y croire",
+    "artist": "Hoshi",
+    "genres": [
+      "Pop",
+      "Chanson française"
+    ],
+    "releaseDate": "2018-03-23",
+    "duration": 50.00,
+    "musicians": [
+      "Hoshi"
+    ],
+    "songs": [
+      {
+        "title": "Ta marinière",
+        "order": 1,
+        "duration": 3.37
+      },
+      {
+        "title": "Comment je vais faire",
+        "order": 2,
+        "duration": 3.30
+      },
+      {
+        "title": "Je vous trouve un charme fou",
+        "order": 3,
+        "duration": 3.20
+      },
+      {
+        "title": "Il suffit d'y croire",
+        "order": 4,
+        "duration": 3.50
+      },
+      {
+        "title": "Te parler tout bas",
+        "order": 5,
+        "duration": 3.40
+      },
+      {
+        "title": "Ma merveille",
+        "order": 6,
+        "duration": 3.45
+      },
+      {
+        "title": "Poupée russe",
+        "order": 7,
+        "duration": 3.25
+      },
+      {
+        "title": "Manège à trois",
+        "order": 8,
+        "duration": 3.55
+      },
+      {
+        "title": "Lettres blanches",
+        "order": 9,
+        "duration": 3.35
+      },
+      {
+        "title": "Fille d'hiver",
+        "order": 10,
+        "duration": 3.15
+      },
+      {
+        "title": "Sans raison",
+        "order": 11,
+        "duration": 3.50
+      },
+      {
+        "title": "À la vie à l'amour",
+        "order": 12,
+        "duration": 3.30
+      },
+      {
+        "title": "Nos jeux amoureux",
+        "order": 13,
+        "duration": 3.20
+      },
+      {
+        "title": "J'te pardonne",
+        "order": 14,
+        "duration": 3.45
+      }
+    ]
+  },
+  {
+    "title": "Sommeil levant",
+    "artist": "Hoshi",
+    "genres": [
+      "Pop",
+      "Chanson française"
+    ],
+    "releaseDate": "2020-03-27",
+    "duration": 45.00,
+    "musicians": [
+      "Hoshi"
+    ],
+    "songs": [
+      {
+        "title": "Sommeil levant",
+        "order": 1,
+        "duration": 3.02
+      },
+      {
+        "title": "Marche ou rêve",
+        "order": 2,
+        "duration": 2.59
+      },
+      {
+        "title": "Amour censure",
+        "order": 3,
+        "duration": 3.27
+      },
+      {
+        "title": "Bouche de métro",
+        "order": 4,
+        "duration": 3.16
+      },
+      {
+        "title": "SQY",
+        "order": 5,
+        "duration": 3.22
+      },
+      {
+        "title": "Migracoeur",
+        "order": 6,
+        "duration": 3.21
+      },
+      {
+        "title": "Larmes de croco (feat. Corine)",
+        "order": 7,
+        "duration": 3.46
+      },
+      {
+        "title": "Ita Vita",
+        "order": 8,
+        "duration": 2.16
+      },
+      {
+        "title": "Coule mascara",
+        "order": 9,
+        "duration": 3.06
+      },
+      {
+        "title": "Enfants du danger",
+        "order": 10,
+        "duration": 3.23
+      },
+      {
+        "title": "Bluff",
+        "order": 11,
+        "duration": 3.34
+      },
+      {
+        "title": "Fais-moi signe",
+        "order": 12,
+        "duration": 3.51
+      },
+      {
+        "title": "La plus belle partie de moi",
+        "order": 13,
+        "duration": 3.18
+      },
+      {
+        "title": "Médicament",
+        "order": 14,
+        "duration": 2.59
+      }
+    ]
+  },
+  {
+    "title": "Étoile flippante",
+    "artist": "Hoshi",
+    "genres": [
+      "Pop",
+      "Chanson française"
+    ],
+    "releaseDate": "2021-06-18",
+    "duration": 48.00,
+    "musicians": [
+      "Hoshi"
+    ],
+    "songs": [
+      {
+        "title": "Étoile flippante",
+        "order": 1,
+        "duration": 3.32
+      },
+      {
+        "title": "Et même après je t'aimerai",
+        "order": 2,
+        "duration": 3.16
+      },
+      {
+        "title": "Pleurs de fumoir (feat. Benjamin Biolay)",
+        "order": 3,
+        "duration": 3.22
+      },
+      {
+        "title": "Nos jeux amoureux",
+        "order": 4,
+        "duration": 2.56
+      },
+      {
+        "title": "Il était une toi",
+        "order": 5,
+        "duration": 2.53
+      },
+      {
+        "title": "J'te pardonne",
+        "order": 6,
+        "duration": 3.53
+      },
+      {
+        "title": "J'attends mon heure (feat. FIVE)",
+        "order": 7,
+        "duration": 3.33
+      },
+      {
+        "title": "Allez là",
+        "order": 8,
+        "duration": 2.37
+      },
+      {
+        "title": "Enfant clown",
+        "order": 9,
+        "duration": 3.21
+      },
+      {
+        "title": "Pas de cadeaux",
+        "order": 10,
+        "duration": 3.02
+      },
+      {
+        "title": "Mieux avant (feat. Babouchka)",
+        "order": 11,
+        "duration": 4.01
+      },
+      {
+        "title": "Frissons",
+        "order": 12,
+        "duration": 3.00
+      },
+      {
+        "title": "Danser dans cette cadence",
+        "order": 13,
+        "duration": 3.16
+      }
+    ]
+  },
+  {
+    "title": "Dysphorie",
+    "artist": "Roxane Bruneau",
+    "genres": [
+      "Pop"
+    ],
+    "releaseDate": "2017-06-01",
+    "duration": 42.00,
+    "musicians": [
+      "Roxane Bruneau"
+    ],
+    "songs": [
+      {
+        "title": "J'pas stressée",
+        "order": 1,
+        "duration": 3.20
+      },
+      {
+        "title": "Des p'tits bouts de toi",
+        "order": 2,
+        "duration": 3.45
+      },
+      {
+        "title": "Seuls ensemble",
+        "order": 3,
+        "duration": 3.30
+      },
+      {
+        "title": "Le secret",
+        "order": 4,
+        "duration": 4.00
+      },
+      {
+        "title": "Notre belle démence",
+        "order": 5,
+        "duration": 3.50
+      },
+      {
+        "title": "Si jamais on me cherche",
+        "order": 6,
+        "duration": 3.25
+      },
+      {
+        "title": "Aime-moi encore",
+        "order": 7,
+        "duration": 3.40
+      },
+      {
+        "title": "Les moments parfaits",
+        "order": 8,
+        "duration": 3.15
+      },
+      {
+        "title": "Le blues d'la métropole",
+        "order": 9,
+        "duration": 4.10
+      },
+      {
+        "title": "Pourvu qu'elle m'aime",
+        "order": 10,
+        "duration": 3.05
+      },
+      {
+        "title": "La tempête",
+        "order": 11,
+        "duration": 3.55
+      },
+      {
+        "title": "Dysphorie",
+        "order": 12,
+        "duration": 3.45
+      }
+    ]
+  },
+  {
+    "title": "Acrophobie",
+    "artist": "Roxane Bruneau",
+    "genres": [
+      "Pop"
+    ],
+    "releaseDate": "2020-11-12",
+    "duration": 45.00,
+    "musicians": [
+      "Roxane Bruneau"
+    ],
+    "songs": [
+      {
+        "title": "À ma manière",
+        "order": 1,
+        "duration": 3.30
+      },
+      {
+        "title": "C'est n'importe quoi (Oulalala)",
+        "order": 2,
+        "duration": 3.20
+      },
+      {
+        "title": "Le secret (Version 2020)",
+        "order": 3,
+        "duration": 4.10
+      },
+      {
+        "title": "Aime-moi encore",
+        "order": 4,
+        "duration": 3.40
+      },
+      {
+        "title": "Partout",
+        "order": 5,
+        "duration": 3.25
+      },
+      {
+        "title": "Le blues d'la métropole",
+        "order": 6,
+        "duration": 4.00
+      },
+      {
+        "title": "Notre belle démence (Version 2020)",
+        "order": 7,
+        "duration": 3.50
+      },
+      {
+        "title": "Des p'tits bouts de toi (Version 2020)",
+        "order": 8,
+        "duration": 3.45
+      },
+      {
+        "title": "Seuls ensemble (Version 2020)",
+        "order": 9,
+        "duration": 3.30
+      },
+      {
+        "title": "Si jamais on me cherche (Version 2020)",
+        "order": 10,
+        "duration": 3.25
+      },
+      {
+        "title": "Les moments parfaits (Version 2020)",
+        "order": 11,
+        "duration": 3.15
+      },
+      {
+        "title": "Pourvu qu'elle m'aime (Version 2020)",
+        "order": 12,
+        "duration": 3.05
+      },
+      {
+        "title": "La tempête (Version 2020)",
+        "order": 13,
+        "duration": 3.55
+      },
+      {
+        "title": "Dysphorie (Version 2020)",
+        "order": 14,
+        "duration": 3.45
+      }
+    ]
+  },
+  {
+    "title": "Submergé",
+    "artist": "Roxane Bruneau",
+    "genres": [
+      "Pop"
+    ],
+    "releaseDate": "2023-11-17",
+    "duration": 48.00,
+    "musicians": [
+      "Roxane Bruneau"
+    ],
+    "songs": [
+      {
+        "title": "Partout",
+        "order": 1,
+        "duration": 3.25
+      },
+      {
+        "title": "I Don't Know Pas Savoir",
+        "order": 2,
+        "duration": 3.15
+      },
+      {
+        "title": "Le blanc des yeux",
+        "order": 3,
+        "duration": 3.40
+      },
+      {
+        "title": "J'te retiens pas",
+        "order": 4,
+        "duration": 3.30
+      },
+      {
+        "title": "Côté passager (feat. Souldia)",
+        "order": 5,
+        "duration": 3.50
+      },
+      {
+        "title": "Une bouteille à la mer",
+        "order": 6,
+        "duration": 4.00
+      },
+      {
+        "title": "À ma manière (Version 2023)",
+        "order": 7,
+        "duration": 3.30
+      },
+      {
+        "title": "C'est n'importe quoi (Oulalala) (Version 2023)",
+        "order": 8,
+        "duration": 3.20
+      },
+      {
+        "title": "Le secret (Version 2023)",
+        "order": 9,
+        "duration": 4.10
+      },
+      {
+        "title": "Aime-moi encore (Version 2023)",
+        "order": 10,
+        "duration": 3.40
+      },
+      {
+        "title": "Partout (Version 2023)",
+        "order": 11,
+        "duration": 3.25
+      },
+      {
+        "title": "Le blues d'la métropole (Version 2023)",
+        "order": 12,
+        "duration": 4.00
+      },
+      {
+        "title": "Notre belle démence (Version 2023)",
+        "order": 13,
+        "duration": 3.50
+      },
+      {
+        "title": "Des p'tits bouts de toi (Version 2023)",
+        "order": 14,
+        "duration": 3.45
+      },
+      {
+        "title": "Seuls ensemble (Version 2023)",
+        "order": 15,
+        "duration": 3.30
+      }
+    ]
+  }
+]

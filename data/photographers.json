@@ -1,0 +1,822 @@
+[
+  {
+    "firstName": "Annie",
+    "name": "Leibovitz",
+    "birthDate": "1949-10-02",
+    "deathDate": null,
+    "nationality": "Américaine",
+    "genres": [
+      "Portrait",
+      "Mode",
+      "Photographie artistique"
+    ],
+    "biography": "Annie Leibovitz est une photographe américaine célèbre pour ses portraits emblématiques de célébrités. Elle a travaillé pour Rolling Stone, Vanity Fair et Vogue, créant des images inoubliables."
+  },
+  {
+    "firstName": "Diane",
+    "name": "Arbus",
+    "birthDate": "1923-03-14",
+    "deathDate": "1971-07-26",
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie documentaire",
+      "Portrait"
+    ],
+    "biography": "Diane Arbus est connue pour ses photographies en noir et blanc de personnes marginalisées, explorant la singularité et l'étrangeté humaine."
+  },
+  {
+    "firstName": "Cindy",
+    "name": "Sherman",
+    "birthDate": "1954-01-19",
+    "deathDate": null,
+    "nationality": "Américaine",
+    "genres": [
+      "Autoportrait",
+      "Photographie conceptuelle"
+    ],
+    "biography": "Cindy Sherman est une photographe et artiste américaine connue pour ses autoportraits transformistes qui interrogent l’identité et les stéréotypes."
+  },
+  {
+    "firstName": "Gerda",
+    "name": "Taro",
+    "birthDate": "1910-08-01",
+    "deathDate": "1937-07-26",
+    "nationality": "Allemande",
+    "genres": [
+      "Photographie de guerre"
+    ],
+    "biography": "Gerda Taro fut une pionnière de la photographie de guerre, documentant la guerre d'Espagne avant de mourir sur le front."
+  },
+  {
+    "firstName": "Julia Margaret",
+    "name": "Cameron",
+    "birthDate": "1815-06-11",
+    "deathDate": "1879-01-26",
+    "nationality": "Britannique",
+    "genres": [
+      "Portrait",
+      "Photographie artistique"
+    ],
+    "biography": "Julia Margaret Cameron fut une pionnière du portrait photographique, utilisant des effets flous pour une esthétique onirique."
+  },
+  {
+    "firstName": "Sally",
+    "name": "Mann",
+    "birthDate": "1951-05-01",
+    "deathDate": null,
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie artistique",
+      "Paysage",
+      "Portrait"
+    ],
+    "biography": "Sally Mann est célèbre pour ses photographies intimistes en noir et blanc, notamment celles de sa famille et des paysages du Sud américain."
+  },
+  {
+    "firstName": "Berenice",
+    "name": "Abbott",
+    "birthDate": "1898-07-17",
+    "deathDate": "1991-12-09",
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie documentaire",
+      "Architecture"
+    ],
+    "biography": "Berenice Abbott a documenté l'évolution de New York et contribué à la reconnaissance de la photographie comme art majeur."
+  },
+  {
+    "firstName": "Vivian",
+    "name": "Maier",
+    "birthDate": "1926-02-01",
+    "deathDate": "2009-04-21",
+    "nationality": "Américaine",
+    "genres": [
+      "Street photography"
+    ],
+    "biography": "Vivian Maier fut une photographe discrète, dont l'œuvre fut découverte après sa mort, révélant un talent exceptionnel pour la photographie de rue."
+  },
+  {
+    "firstName": "Lee",
+    "name": "Miller",
+    "birthDate": "1907-04-23",
+    "deathDate": "1977-07-21",
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie de guerre",
+      "Surréalisme"
+    ],
+    "biography": "Lee Miller fut à la fois mannequin, muse des surréalistes et photographe de guerre, capturant des images marquantes de la Seconde Guerre mondiale."
+  },
+  {
+    "firstName": "Tina",
+    "name": "Modotti",
+    "birthDate": "1896-08-17",
+    "deathDate": "1942-01-05",
+    "nationality": "Italienne",
+    "genres": [
+      "Photographie documentaire",
+      "Politique"
+    ],
+    "biography": "Tina Modotti était une photographe et militante politique italienne, connue pour ses images engagées sur la société mexicaine."
+  },
+  {
+    "firstName": "Henri",
+    "name": "Cartier-Bresson",
+    "birthDate": "1908-08-22",
+    "deathDate": "2004-08-03",
+    "nationality": "Français",
+    "genres": [
+      "Photographie de rue",
+      "Photojournalisme"
+    ],
+    "biography": "Henri Cartier-Bresson est un pionnier du photojournalisme, célèbre pour sa théorie de « l’instant décisif » et cofondateur de l’agence Magnum Photos."
+  },
+  {
+    "firstName": "Robert",
+    "name": "Capa",
+    "birthDate": "1913-10-22",
+    "deathDate": "1954-05-25",
+    "nationality": "Hongrois",
+    "genres": [
+      "Photographie de guerre"
+    ],
+    "biography": "Robert Capa fut un photojournaliste de guerre emblématique, couvrant cinq conflits majeurs, notamment le débarquement de Normandie."
+  },
+  {
+    "firstName": "Ansel",
+    "name": "Adams",
+    "birthDate": "1902-02-20",
+    "deathDate": "1984-04-22",
+    "nationality": "Américaine",
+    "genres": [
+      "Paysage",
+      "Photographie en noir et blanc"
+    ],
+    "biography": "Ansel Adams est reconnu pour ses photographies en noir et blanc des parcs nationaux américains et son engagement pour l'environnement."
+  },
+  {
+    "firstName": "Richard",
+    "name": "Avedon",
+    "birthDate": "1923-05-15",
+    "deathDate": "2004-10-01",
+    "nationality": "Américaine",
+    "genres": [
+      "Mode",
+      "Portrait"
+    ],
+    "biography": "Richard Avedon a révolutionné la photographie de mode et du portrait, capturant des personnalités avec une intensité rare."
+  },
+  {
+    "firstName": "Sebastião",
+    "name": "Salgado",
+    "birthDate": "1944-02-08",
+    "deathDate": null,
+    "nationality": "Brésilien",
+    "genres": [
+      "Photographie documentaire",
+      "Photo humaniste"
+    ],
+    "biography": "Sebastião Salgado est connu pour ses reportages photographiques puissants sur les conditions de vie des travailleurs et les crises humanitaires."
+  },
+  {
+    "firstName": "Steve",
+    "name": "McCurry",
+    "birthDate": "1950-02-24",
+    "deathDate": null,
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie documentaire",
+      "Portrait"
+    ],
+    "biography": "Steve McCurry est célèbre pour sa photographie emblématique « La fille afghane » publiée dans National Geographic."
+  },
+  {
+    "firstName": "Brassaï",
+    "name": "Gyula Halász",
+    "birthDate": "1899-09-09",
+    "deathDate": "1984-07-08",
+    "nationality": "Français",
+    "genres": [
+      "Photographie de nuit",
+      "Photographie urbaine"
+    ],
+    "biography": "Brassaï est célèbre pour ses photographies nocturnes de Paris, capturant l’atmosphère unique de la ville lumière."
+  },
+  {
+    "firstName": "Margaret",
+    "name": "Bourke-White",
+    "birthDate": "1904-06-14",
+    "deathDate": "1971-08-27",
+    "nationality": "Américaine",
+    "genres": [
+      "Photojournalisme",
+      "Photographie de guerre"
+    ],
+    "biography": "Margaret Bourke-White fut une des premières femmes photojournalistes et la première correspondante de guerre féminine."
+  },
+  {
+    "firstName": "Dorothea",
+    "name": "Lange",
+    "birthDate": "1895-05-26",
+    "deathDate": "1965-10-11",
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie documentaire"
+    ],
+    "biography": "Dorothea Lange est connue pour ses images poignantes de la Grande Dépression, notamment la célèbre « Migrant Mother »."
+  },
+  {
+    "firstName": "Barbara",
+    "name": "Kruger",
+    "birthDate": "1945-01-26",
+    "deathDate": null,
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie conceptuelle",
+      "Collage"
+    ],
+    "biography": "Barbara Kruger mélange photographie et typographie pour critiquer la société de consommation et les inégalités sociales."
+  },
+  {
+    "firstName": "Mary Ellen",
+    "name": "Mark",
+    "birthDate": "1940-03-20",
+    "deathDate": "2015-05-25",
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie documentaire",
+      "Portrait"
+    ],
+    "biography": "Mary Ellen Mark a documenté les marginaux et les exclus de la société avec une approche humaniste."
+  },
+  {
+    "firstName": "Sarah",
+    "name": "Moon",
+    "birthDate": "1941-01-01",
+    "deathDate": null,
+    "nationality": "Française",
+    "genres": [
+      "Mode",
+      "Photographie artistique"
+    ],
+    "biography": "Sarah Moon est une photographe et réalisatrice française célèbre pour son style onirique et ses images de mode."
+  },
+  {
+    "firstName": "Ellen",
+    "name": "von Unwerth",
+    "birthDate": "1954-01-17",
+    "deathDate": null,
+    "nationality": "Allemande",
+    "genres": [
+      "Mode",
+      "Portrait"
+    ],
+    "biography": "Ellen von Unwerth est une photographe de mode qui met en avant des femmes puissantes et glamour."
+  },
+  {
+    "firstName": "Lillian",
+    "name": "Bassman",
+    "birthDate": "1917-06-15",
+    "deathDate": "2012-02-13",
+    "nationality": "Américaine",
+    "genres": [
+      "Mode"
+    ],
+    "biography": "Lillian Bassman a modernisé la photographie de mode avec son style éthéré et contrasté en noir et blanc."
+  },
+  {
+    "firstName": "Christine",
+    "name": "Spengler",
+    "birthDate": "1945-12-06",
+    "deathDate": null,
+    "nationality": "Française",
+    "genres": [
+      "Photographie de guerre"
+    ],
+    "biography": "Christine Spengler est une photojournaliste française qui a couvert de nombreux conflits à travers le monde."
+  },
+  {
+    "firstName": "Graciela",
+    "name": "Iturbide",
+    "birthDate": "1942-05-16",
+    "deathDate": null,
+    "nationality": "Mexicaine",
+    "genres": [
+      "Photographie documentaire"
+    ],
+    "biography": "Graciela Iturbide capture la culture mexicaine et indigène avec une esthétique unique et poétique."
+  },
+  {
+    "firstName": "Ruth",
+    "name": "Orkin",
+    "birthDate": "1921-09-03",
+    "deathDate": "1985-01-16",
+    "nationality": "Américaine",
+    "genres": [
+      "Photographie de rue",
+      "Portrait"
+    ],
+    "biography": "Ruth Orkin est connue pour ses photographies de rue et son image emblématique « American Girl in Italy »."
+  },
+  {
+    "firstName": "Man",
+    "name": "Ray",
+    "birthDate": "1890-08-27",
+    "deathDate": "1976-11-18",
+    "nationality": "Américain",
+    "genres": [
+      "Surréalisme",
+      "Photographie expérimentale"
+    ],
+    "biography": "Man Ray fut un photographe et artiste surréaliste innovant, célèbre pour ses « rayographies » et ses portraits."
+  },
+  {
+    "firstName": "Edward",
+    "name": "Weston",
+    "birthDate": "1886-03-24",
+    "deathDate": "1958-01-01",
+    "nationality": "Américain",
+    "genres": [
+      "Photographie artistique"
+    ],
+    "biography": "Edward Weston est un maître de la photographie moderniste, connu pour ses compositions épurées et ses nus."
+  },
+  {
+    "firstName": "Walker",
+    "name": "Evans",
+    "birthDate": "1903-11-03",
+    "deathDate": "1975-04-10",
+    "nationality": "Américain",
+    "genres": [
+      "Photographie documentaire"
+    ],
+    "biography": "Walker Evans a documenté l’Amérique rurale pendant la Grande Dépression avec une approche réaliste et sobre."
+  },
+  {
+    "firstName": "Paul",
+    "name": "Strand",
+    "birthDate": "1890-10-16",
+    "deathDate": "1976-03-31",
+    "nationality": "Américain",
+    "genres": [
+      "Photographie documentaire",
+      "Photographie artistique"
+    ],
+    "biography": "Paul Strand a fusionné modernisme et photographie documentaire avec un regard précis et artistique."
+  },
+  {
+    "firstName": "Bruno",
+    "name": "Barbey",
+    "birthDate": "1941-02-13",
+    "deathDate": "2020-11-09",
+    "nationality": "Français",
+    "genres": [
+      "Photojournalisme"
+    ],
+    "biography": "Bruno Barbey fut un photographe Magnum, couvrant des conflits mondiaux avec un usage novateur de la couleur."
+  },
+  {
+    "firstName": "Eugène",
+    "name": "Atget",
+    "birthDate": "1857-02-12",
+    "deathDate": "1927-08-04",
+    "nationality": "Français",
+    "genres": [
+      "Photographie urbaine"
+    ],
+    "biography": "Eugène Atget a immortalisé le vieux Paris, créant une archive visuelle précieuse de la ville avant sa modernisation."
+  },
+  {
+    "firstName": "André",
+    "name": "Kertész",
+    "birthDate": "1894-07-02",
+    "deathDate": "1985-09-28",
+    "nationality": "Hongrois",
+    "genres": [
+      "Photographie de rue"
+    ],
+    "biography": "André Kertész est un pionnier de la photographie spontanée et de la composition innovante."
+  },
+  {
+    "firstName": "Arnold",
+    "name": "Newman",
+    "birthDate": "1918-03-03",
+    "deathDate": "2006-06-06",
+    "nationality": "Américain",
+    "genres": [
+      "Portrait"
+    ],
+    "biography": "Arnold Newman est connu pour ses portraits environnementaux, intégrant le cadre de vie des sujets dans ses compositions."
+  },
+  {
+    "firstName": "Peter",
+    "name": "Lindbergh",
+    "birthDate": "1944-11-23",
+    "deathDate": "2019-09-03",
+    "nationality": "Allemand",
+    "genres": [
+      "Mode",
+      "Portrait"
+    ],
+    "biography": "Peter Lindbergh a révolutionné la photographie de mode avec ses images brutes et naturelles, mettant en avant la beauté authentique."
+  },
+  {
+    "firstName": "Gordon",
+    "name": "Parks",
+    "birthDate": "1912-11-30",
+    "deathDate": "2006-03-07",
+    "nationality": "Américain",
+    "genres": [
+      "Photographie documentaire",
+      "Photojournalisme"
+    ],
+    "biography": "Gordon Parks fut un photographe engagé, documentant les luttes pour les droits civiques et la vie des Afro-Américains."
+  },
+  {
+    "firstName": "Daidō",
+    "name": "Moriyama",
+    "birthDate": "1938-10-10",
+    "deathDate": null,
+    "nationality": "Japonais",
+    "genres": ["Street photography", "Photographie expérimentale"],
+    "biography": "Daidō Moriyama est un photographe japonais célèbre pour ses images granuleuses et contrastées de la vie urbaine au Japon."
+  },
+  {
+    "firstName": "Hiroshi",
+    "name": "Sugimoto",
+    "birthDate": "1948-02-23",
+    "deathDate": null,
+    "nationality": "Japonais",
+    "genres": ["Photographie artistique", "Paysage"],
+    "biography": "Hiroshi Sugimoto explore le temps et la mémoire à travers des séries photographiques minimalistes et contemplatives."
+  },
+  {
+    "firstName": "Miyako",
+    "name": "Ishiuchi",
+    "birthDate": "1947-03-27",
+    "deathDate": null,
+    "nationality": "Japonaise",
+    "genres": ["Photographie féministe", "Photographie documentaire"],
+    "biography": "Miyako Ishiuchi est une photographe japonaise qui explore la mémoire, le corps et les cicatrices laissées par le temps."
+  },
+  {
+    "firstName": "Rinko",
+    "name": "Kawauchi",
+    "birthDate": "1972-04-06",
+    "deathDate": null,
+    "nationality": "Japonaise",
+    "genres": ["Photographie artistique", "Minimalisme"],
+    "biography": "Rinko Kawauchi est connue pour son style poétique et lumineux qui saisit la beauté des instants du quotidien."
+  },
+  {
+    "firstName": "Masahisa",
+    "name": "Fukase",
+    "birthDate": "1934-02-25",
+    "deathDate": "2012-06-09",
+    "nationality": "Japonais",
+    "genres": ["Photographie conceptuelle", "Autoportrait"],
+    "biography": "Masahisa Fukase est célèbre pour sa série mélancolique « Les Corbeaux », explorant la solitude et la perte."
+  },
+  {
+    "firstName": "Siobhán",
+    "name": "Doran",
+    "birthDate": "1973-11-27",
+    "deathDate": null,
+    "nationality": "Irlandaise",
+    "genres": ["Photographie d'architecture", "Photographie artistique"],
+    "biography": "Siobhán Doran capture des intérieurs et des architectures emblématiques, mettant en avant la géométrie et la lumière."
+  },
+  {
+    "firstName": "Aisling",
+    "name": "McCoy",
+    "birthDate": "1985-03-21",
+    "deathDate": null,
+    "nationality": "Irlandaise",
+    "genres": ["Photographie conceptuelle", "Architecture"],
+    "biography": "Aisling McCoy est une photographe et architecte qui explore l’espace, la mémoire et la relation entre les êtres humains et leur environnement bâti."
+  },
+  {
+    "firstName": "Miriam",
+    "name": "O'Connor",
+    "birthDate": "1976-09-18",
+    "deathDate": null,
+    "nationality": "Irlandaise",
+    "genres": ["Photographie documentaire", "Portrait"],
+    "biography": "Miriam O’Connor crée des images qui interrogent la perception, la narration et l’intimité, souvent inspirées par sa vie personnelle."
+  },
+  {
+    "firstName": "Aoife",
+    "name": "Herrity",
+    "birthDate": "1990-06-18",
+    "deathDate": null,
+    "nationality": "Irlandaise",
+    "genres": ["Photographie conceptuelle", "Photographie de portrait"],
+    "biography": "Aoife Herrity crée des images poétiques et introspectives, explorant la solitude, le rêve et l’introspection."
+  },
+  {
+    "firstName": "Enda",
+    "name": "Burke",
+    "birthDate": "1986-07-03",
+    "deathDate": null,
+    "nationality": "Irlandaise",
+    "genres": ["Photographie de rue", "Photographie humoristique"],
+    "biography": "Enda Burke est une photographe contemporaine qui met en scène des images colorées et satiriques sur la culture irlandaise."
+  },
+  {
+    "firstName": "Deirdre",
+    "name": "Brennan",
+    "birthDate": "1973-05-22",
+    "deathDate": null,
+    "nationality": "Irlandaise",
+    "genres": ["Photojournalisme", "Photographie de rue"],
+    "biography": "Deirdre Brennan est une photographe dont les images témoignent de la culture contemporaine et des mouvements sociaux."
+  },
+  {
+    "firstName": "Sarah",
+    "name": "Cullen",
+    "birthDate": "1988-08-11",
+    "deathDate": null,
+    "nationality": "Irlandaise",
+    "genres": ["Photographie conceptuelle", "Paysage"],
+    "biography": "Sarah Cullen travaille avec des paysages oniriques et des jeux de lumière pour capturer des atmosphères uniques et émotionnelles."
+  },
+  {
+    "firstName": "Fionn",
+    "name": "McCann",
+    "birthDate": "1982-12-10",
+    "deathDate": null,
+    "nationality": "Irlandais",
+    "genres": ["Photographie documentaire", "Photographie urbaine"],
+    "biography": "Fionn McCann photographie les espaces urbains et les paysages contemporains, explorant les transformations sociales."
+  },
+  {
+    "firstName": "Erik",
+    "name": "Johansson",
+    "birthDate": "1985-04-25",
+    "deathDate": null,
+    "nationality": "Suédois",
+    "genres": ["Photographie conceptuelle", "Photographie numérique"],
+    "biography": "Erik Johansson est un photographe et retoucheur suédois qui crée des mondes impossibles grâce à des manipulations numériques sophistiquées."
+  },
+  {
+    "firstName": "Tommy",
+    "name": "Ingberg",
+    "birthDate": "1983-08-19",
+    "deathDate": null,
+    "nationality": "Suédois",
+    "genres": ["Photographie surréaliste", "Noir et blanc"],
+    "biography": "Tommy Ingberg réalise des images minimalistes et énigmatiques en noir et blanc, explorant des thèmes existentiels et poétiques."
+  },
+  {
+    "firstName": "Sarah",
+    "name": "Moon",
+    "birthDate": "1941-01-01",
+    "deathDate": null,
+    "nationality": "Française",
+    "genres": ["Photographie de mode", "Photographie artistique"],
+    "biography": "Sarah Moon est une photographe française célèbre pour son style onirique, ses images floues et mystérieuses inspirées des contes de fées."
+  },
+  {
+    "firstName": "Tim",
+    "name": "Walker",
+    "birthDate": "1970-05-25",
+    "deathDate": null,
+    "nationality": "Britannique",
+    "genres": ["Photographie de mode", "Surréalisme"],
+    "biography": "Tim Walker est un photographe de mode britannique qui crée des images théâtrales et féeriques, mêlant rêve et réalité."
+  },
+  {
+    "firstName": "Oleg",
+    "name": "Oprisco",
+    "birthDate": "1987-09-30",
+    "deathDate": null,
+    "nationality": "Ukrainien",
+    "genres": ["Photographie conceptuelle", "Surréalisme"],
+    "biography": "Oleg Oprisco est connu pour ses mises en scène surréalistes et colorées, créées avec des appareils argentiques et un soin méticuleux du détail."
+  },
+  {
+    "firstName": "Brooke",
+    "name": "Shaden",
+    "birthDate": "1987-03-03",
+    "deathDate": null,
+    "nationality": "Américaine",
+    "genres": ["Photographie conceptuelle", "Photographie artistique"],
+    "biography": "Brooke Shaden crée des autoportraits oniriques et sombres, inspirés de la peinture et des récits fantastiques."
+  },
+  {
+    "firstName": "Rodney",
+    "name": "Smith",
+    "birthDate": "1947-12-24",
+    "deathDate": "2016-12-05",
+    "nationality": "Américain",
+    "genres": ["Photographie conceptuelle", "Portrait"],
+    "biography": "Rodney Smith est un photographe américain connu pour ses images élégantes et surréalistes, pleines d'humour et de mystère."
+  },
+  {
+    "firstName": "Kirsty",
+    "name": "Mitchell",
+    "birthDate": "1976-06-28",
+    "deathDate": null,
+    "nationality": "Britannique",
+    "genres": ["Photographie artistique", "Surréalisme"],
+    "biography": "Kirsty Mitchell est une photographe britannique qui crée des images féeriques et détaillées, inspirées par la littérature et les contes."
+  },
+  {
+    "firstName": "Ellen",
+    "name": "Rogers",
+    "birthDate": "1983-05-12",
+    "deathDate": null,
+    "nationality": "Britannique",
+    "genres": ["Photographie expérimentale", "Photographie analogique"],
+    "biography": "Ellen Rogers utilise des techniques photographiques anciennes et des teintes nostalgiques pour créer des images éthérées et oniriques."
+  },
+  {
+    "firstName": "Miss",
+    "name": "Aniela",
+    "birthDate": "1987-07-05",
+    "deathDate": null,
+    "nationality": "Britannique",
+    "genres": ["Photographie conceptuelle", "Photographie de mode"],
+    "biography": "Miss Aniela fusionne mode et art numérique pour créer des portraits surréalistes et somptueux inspirés de la peinture classique."
+  },
+  {
+    "firstName": "Karl",
+    "name": "Blossfeldt",
+    "birthDate": "1865-06-13",
+    "deathDate": "1932-12-09",
+    "nationality": "Allemand",
+    "genres": ["Photographie botanique", "Photographie macro"],
+    "biography": "Karl Blossfeldt est célèbre pour ses photographies en gros plan de plantes, capturant la structure et la géométrie naturelle avec une approche scientifique et artistique."
+  },
+  {
+    "firstName": "Anna",
+    "name": "Atkins",
+    "birthDate": "1799-03-16",
+    "deathDate": "1871-06-09",
+    "nationality": "Britannique",
+    "genres": ["Photographie botanique", "Cyanotype"],
+    "biography": "Anna Atkins est considérée comme la première femme photographe et pionnière du cyanotype, créant des images botaniques d'une grande précision scientifique."
+  },
+  {
+    "firstName": "Imogen",
+    "name": "Cunningham",
+    "birthDate": "1883-04-12",
+    "deathDate": "1976-06-23",
+    "nationality": "Américaine",
+    "genres": ["Photographie botanique", "Photographie artistique"],
+    "biography": "Imogen Cunningham a exploré la photographie botanique en noir et blanc avec une grande attention aux formes et aux textures des plantes et des fleurs."
+  },
+  {
+    "firstName": "Robert",
+    "name": "Mapplethorpe",
+    "birthDate": "1946-11-04",
+    "deathDate": "1989-03-09",
+    "nationality": "Américain",
+    "genres": ["Photographie botanique", "Photographie artistique"],
+    "biography": "Robert Mapplethorpe est connu pour ses photographies élégantes de fleurs, mettant en avant leur sensualité et leur structure dans des compositions sophistiquées."
+  },
+  {
+    "firstName": "Hew",
+    "name": "Lorimer",
+    "birthDate": "1895-05-21",
+    "deathDate": "1973-10-19",
+    "nationality": "Britannique",
+    "genres": ["Photographie botanique", "Illustration scientifique"],
+    "biography": "Hew Lorimer a documenté la flore britannique avec précision, créant des archives botaniques inestimables."
+  },
+  {
+    "firstName": "Paul",
+    "name": "Harcourt Davies",
+    "birthDate": "1947-08-12",
+    "deathDate": null,
+    "nationality": "Britannique",
+    "genres": ["Photographie botanique", "Photographie macro"],
+    "biography": "Paul Harcourt Davies est un expert en macrophotographie et photographie de fleurs, mettant en avant la biodiversité et la préservation de la nature."
+  },
+  {
+    "firstName": "Rachel",
+    "name": "Sussman",
+    "birthDate": "1975-07-15",
+    "deathDate": null,
+    "nationality": "Américaine",
+    "genres": ["Photographie botanique", "Photographie environnementale"],
+    "biography": "Rachel Sussman est célèbre pour son projet ‘The Oldest Living Things in the World’, capturant des organismes et plantes millénaires."
+  },
+  {
+    "firstName": "Ron",
+    "name": "van Dongen",
+    "birthDate": "1961-09-20",
+    "deathDate": null,
+    "nationality": "Néerlandais",
+    "genres": ["Photographie botanique", "Photographie artistique"],
+    "biography": "Ron van Dongen est reconnu pour ses photographies de fleurs en grand format, révélant des détails subtils et une beauté sculpturale."
+  },
+  {
+    "firstName": "Jonathan",
+    "name": "Singer",
+    "birthDate": "1954-04-10",
+    "deathDate": null,
+    "nationality": "Américain",
+    "genres": ["Photographie botanique", "Photographie scientifique"],
+    "biography": "Jonathan Singer a révolutionné la photographie botanique en combinant précision scientifique et esthétique artistique."
+  },
+  {
+    "firstName": "Nori",
+    "name": "Inoguchi",
+    "birthDate": "1978-11-25",
+    "deathDate": null,
+    "nationality": "Japonais",
+    "genres": ["Photographie botanique", "Photographie minimaliste"],
+    "biography": "Nori Inoguchi explore la relation entre l’homme et la nature à travers des compositions épurées mettant en scène des fleurs et des plantes."
+  },
+  {
+    "firstName": "Frans",
+    "name": "Lanting",
+    "birthDate": "1951-07-13",
+    "deathDate": null,
+    "nationality": "Néerlandais",
+    "genres": ["Photographie animalière", "Photographie de nature"],
+    "biography": "Frans Lanting est l’un des plus grands photographes animaliers, capturant des images spectaculaires de la faune pour National Geographic."
+  },
+  {
+    "firstName": "Steve",
+    "name": "Bloom",
+    "birthDate": "1953-06-01",
+    "deathDate": null,
+    "nationality": "Sud-Africain",
+    "genres": ["Photographie animalière", "Photographie de nature"],
+    "biography": "Steve Bloom est connu pour ses photographies saisissantes de la faune africaine, mettant en avant la relation entre les animaux et leur environnement."
+  },
+  {
+    "firstName": "Vincent",
+    "name": "Munier",
+    "birthDate": "1976-04-14",
+    "deathDate": null,
+    "nationality": "Français",
+    "genres": ["Photographie animalière", "Photographie de nature"],
+    "biography": "Vincent Munier est un photographe animalier français réputé pour son approche poétique et minimaliste de la nature sauvage."
+  },
+  {
+    "firstName": "Art",
+    "name": "Wolfe",
+    "birthDate": "1951-09-13",
+    "deathDate": null,
+    "nationality": "Américain",
+    "genres": ["Photographie animalière", "Photographie de paysage"],
+    "biography": "Art Wolfe est un photographe américain de renommée mondiale, connu pour ses images vibrantes de la faune et des cultures indigènes."
+  },
+  {
+    "firstName": "Thomas",
+    "name": "Mangelsen",
+    "birthDate": "1946-01-06",
+    "deathDate": null,
+    "nationality": "Américain",
+    "genres": ["Photographie animalière", "Photographie de conservation"],
+    "biography": "Thomas Mangelsen est un photographe animalier américain qui documente la faune sauvage avec une approche de conservation."
+  },
+  {
+    "firstName": "Nick",
+    "name": "Brandt",
+    "birthDate": "1964-03-18",
+    "deathDate": null,
+    "nationality": "Britannique",
+    "genres": ["Photographie animalière", "Photographie environnementale"],
+    "biography": "Nick Brandt est célèbre pour ses portraits en noir et blanc d'animaux africains, capturant leur dignité et leur fragilité."
+  },
+  {
+    "firstName": "Beverly",
+    "name": "Joubert",
+    "birthDate": "1957-05-14",
+    "deathDate": null,
+    "nationality": "Sud-Africaine",
+    "genres": ["Photographie animalière", "Photojournalisme"],
+    "biography": "Beverly Joubert est une photographe et cinéaste engagée dans la préservation des grands félins en Afrique."
+  },
+  {
+    "firstName": "Laurent",
+    "name": "Baheux",
+    "birthDate": "1970-11-02",
+    "deathDate": null,
+    "nationality": "Français",
+    "genres": ["Photographie animalière", "Noir et blanc"],
+    "biography": "Laurent Baheux est un photographe français spécialisé dans les portraits en noir et blanc d'animaux sauvages, mettant en valeur leur majesté."
+  },
+  {
+    "firstName": "Paul",
+    "name": "Nicklen",
+    "birthDate": "1968-07-21",
+    "deathDate": null,
+    "nationality": "Canadien",
+    "genres": ["Photographie animalière", "Photographie sous-marine"],
+    "biography": "Paul Nicklen est un photographe canadien travaillant pour National Geographic, spécialisé dans les environnements polaires et la faune marine."
+  },
+  {
+    "firstName": "Konsta",
+    "name": "Punkka",
+    "birthDate": "1994-01-24",
+    "deathDate": null,
+    "nationality": "Finlandais",
+    "genres": ["Photographie animalière", "Photographie de nature"],
+    "biography": "Konsta Punkka est un photographe finlandais qui capture la faune de manière intime, avec un style unique basé sur le portrait animalier."
+  }
+]
