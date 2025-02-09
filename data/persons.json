@@ -19,7 +19,27 @@
       "zipCode": "75002",
       "country": "France"
     },
-    "yearlyIncome": 62103
+    "yearlyIncome": 62103,
+    "jobHistory": [
+      {
+        "joinedAt": 2006,
+        "jobTitle": "Engineer",
+        "company": "None (Self-Employed)",
+        "leftAt": 2011
+      },
+      {
+        "joinedAt": 2011,
+        "jobTitle": "Consultant",
+        "company": "None (Self-Employed)",
+        "leftAt": 2019
+      },
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Teacher",
+        "company": "Government",
+        "leftAt": 2020
+      }
+    ]
   },
   {
     "firstName": "Sophie",
@@ -41,7 +61,27 @@
       "zipCode": "75008",
       "country": "France"
     },
-    "yearlyIncome": 53560
+    "yearlyIncome": 53560,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Software Engineer",
+        "company": "Apple",
+        "leftAt": 2018
+      },
+      {
+        "joinedAt": 2018,
+        "jobTitle": "Researcher",
+        "company": "Apple",
+        "leftAt": 2020
+      },
+      {
+        "joinedAt": 2020,
+        "jobTitle": "Doctor",
+        "company": "Apple",
+        "leftAt": 2022
+      }
+    ]
   },
   {
     "firstName": "Pierre",
@@ -65,7 +105,15 @@
       "zipCode": "75009",
       "country": "France"
     },
-    "yearlyIncome": 85450
+    "yearlyIncome": 85450,
+    "jobHistory": [
+      {
+        "joinedAt": 2002,
+        "jobTitle": "Consultant",
+        "company": "None (Self-Employed)",
+        "leftAt": 2007
+      }
+    ]
   },
   {
     "firstName": "Nathalie",
@@ -89,7 +137,15 @@
       "zipCode": "69002",
       "country": "France"
     },
-    "yearlyIncome": 86416
+    "yearlyIncome": 86416,
+    "jobHistory": [
+      {
+        "joinedAt": 2004,
+        "jobTitle": "Artist",
+        "company": "Tesla",
+        "leftAt": 2006
+      }
+    ]
   },
   {
     "firstName": "Luc",
@@ -113,7 +169,33 @@
       "zipCode": "33000",
       "country": "France"
     },
-    "yearlyIncome": 58911
+    "yearlyIncome": 58911,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Teacher",
+        "company": "None (Self-Employed)",
+        "leftAt": 2016
+      },
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Data Analyst",
+        "company": "Apple",
+        "leftAt": 2019
+      },
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Consultant",
+        "company": "Apple",
+        "leftAt": 2024
+      },
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Teacher",
+        "company": "Facebook",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Liam",
@@ -141,7 +223,21 @@
       "zipCode": "D01 P2X3",
       "country": "Irlande"
     },
-    "yearlyIncome": 93037
+    "yearlyIncome": 93037,
+    "jobHistory": [
+      {
+        "joinedAt": 2012,
+        "jobTitle": "Engineer",
+        "company": "None (Self-Employed)",
+        "leftAt": 2020
+      },
+      {
+        "joinedAt": 2020,
+        "jobTitle": "Business Owner",
+        "company": "IBM",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Aoife",
@@ -166,7 +262,27 @@
       "zipCode": "D02 R3Y4",
       "country": "Irlande"
     },
-    "yearlyIncome": 71497
+    "yearlyIncome": 71497,
+    "jobHistory": [
+      {
+        "joinedAt": 2013,
+        "jobTitle": "Teacher",
+        "company": "Microsoft",
+        "leftAt": 2019
+      },
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Accountant",
+        "company": "Google",
+        "leftAt": 2020
+      },
+      {
+        "joinedAt": 2020,
+        "jobTitle": "Software Engineer",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Sean",
@@ -187,7 +303,15 @@
       "zipCode": "H91 A1B2",
       "country": "Irlande"
     },
-    "yearlyIncome": 47420
+    "yearlyIncome": 47420,
+    "jobHistory": [
+      {
+        "joinedAt": 2003,
+        "jobTitle": "Business Owner",
+        "company": "Amazon",
+        "leftAt": 2011
+      }
+    ]
   },
   {
     "firstName": "Niamh",
@@ -206,7 +330,21 @@
       "zipCode": "T12 V6C7",
       "country": "Irlande"
     },
-    "yearlyIncome": 30124
+    "yearlyIncome": 30124,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Doctor",
+        "company": "Government",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Consultant",
+        "company": "Amazon",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Patrick",
@@ -224,7 +362,21 @@
       "zipCode": "H91 D4E5",
       "country": "Irlande"
     },
-    "yearlyIncome": 47746
+    "yearlyIncome": 47746,
+    "jobHistory": [
+      {
+        "joinedAt": 1996,
+        "jobTitle": "Engineer",
+        "company": "Google",
+        "leftAt": 1997
+      },
+      {
+        "joinedAt": 1997,
+        "jobTitle": "Data Analyst",
+        "company": "Google",
+        "leftAt": 2004
+      }
+    ]
   },
   {
     "firstName": "Ciara",
@@ -243,7 +395,15 @@
       "zipCode": "T12 G8F9",
       "country": "Irlande"
     },
-    "yearlyIncome": 34905
+    "yearlyIncome": 34905,
+    "jobHistory": [
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Engineer",
+        "company": "Government",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Conor",
@@ -261,7 +421,21 @@
       "zipCode": "V94 X5Y6",
       "country": "Irlande"
     },
-    "yearlyIncome": 41070
+    "yearlyIncome": 41070,
+    "jobHistory": [
+      {
+        "joinedAt": 2004,
+        "jobTitle": "Data Analyst",
+        "company": "Government",
+        "leftAt": 2005
+      },
+      {
+        "joinedAt": 2005,
+        "jobTitle": "Artist",
+        "company": "Facebook",
+        "leftAt": 2014
+      }
+    ]
   },
   {
     "firstName": "Emma",
@@ -279,7 +453,15 @@
       "zipCode": "T12 H3I4",
       "country": "Irlande"
     },
-    "yearlyIncome": 43504
+    "yearlyIncome": 43504,
+    "jobHistory": [
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Software Engineer",
+        "company": "Government",
+        "leftAt": 2022
+      }
+    ]
   },
   {
     "firstName": "Ronan",
@@ -297,7 +479,33 @@
       "zipCode": "V94 J6K7",
       "country": "Irlande"
     },
-    "yearlyIncome": 44281
+    "yearlyIncome": 44281,
+    "jobHistory": [
+      {
+        "joinedAt": 2002,
+        "jobTitle": "Consultant",
+        "company": "Apple",
+        "leftAt": 2007
+      },
+      {
+        "joinedAt": 2007,
+        "jobTitle": "Artist",
+        "company": "Google",
+        "leftAt": 2010
+      },
+      {
+        "joinedAt": 2010,
+        "jobTitle": "Doctor",
+        "company": "Tesla",
+        "leftAt": 2014
+      },
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Consultant",
+        "company": "IBM",
+        "leftAt": 2023
+      }
+    ]
   },
   {
     "firstName": "Saoirse",
@@ -315,7 +523,15 @@
       "zipCode": "D02 T8U9",
       "country": "Irlande"
     },
-    "yearlyIncome": 41433
+    "yearlyIncome": 41433,
+    "jobHistory": [
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Data Analyst",
+        "company": "Startup",
+        "leftAt": 2025
+      }
+    ]
   },
   {
     "firstName": "Douglas",
@@ -335,7 +551,33 @@
       "zipCode": "75004",
       "country": "France"
     },
-    "yearlyIncome": 33163
+    "yearlyIncome": 33163,
+    "jobHistory": [
+      {
+        "joinedAt": 2007,
+        "jobTitle": "Teacher",
+        "company": "Apple",
+        "leftAt": 2009
+      },
+      {
+        "joinedAt": 2009,
+        "jobTitle": "Data Analyst",
+        "company": "Microsoft",
+        "leftAt": 2012
+      },
+      {
+        "joinedAt": 2012,
+        "jobTitle": "Teacher",
+        "company": "Amazon",
+        "leftAt": 2018
+      },
+      {
+        "joinedAt": 2018,
+        "jobTitle": "Data Analyst",
+        "company": "Amazon",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Carlos",
@@ -359,7 +601,27 @@
       "zipCode": "75009",
       "country": "France"
     },
-    "yearlyIncome": 58210
+    "yearlyIncome": 58210,
+    "jobHistory": [
+      {
+        "joinedAt": 2010,
+        "jobTitle": "Data Analyst",
+        "company": "Microsoft",
+        "leftAt": 2014
+      },
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Data Analyst",
+        "company": "Google",
+        "leftAt": 2024
+      },
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Engineer",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Frederik",
@@ -383,7 +645,15 @@
       "zipCode": "D02 H5Y6",
       "country": "Irlande"
     },
-    "yearlyIncome": 56960
+    "yearlyIncome": 56960,
+    "jobHistory": [
+      {
+        "joinedAt": 2012,
+        "jobTitle": "Data Analyst",
+        "company": "Microsoft",
+        "leftAt": 2019
+      }
+    ]
   },
   {
     "firstName": "Gérard",
@@ -405,7 +675,27 @@
       "zipCode": "75002",
       "country": "France"
     },
-    "yearlyIncome": 63505
+    "yearlyIncome": 63505,
+    "jobHistory": [
+      {
+        "joinedAt": 2009,
+        "jobTitle": "Doctor",
+        "company": "Amazon",
+        "leftAt": 2014
+      },
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Software Engineer",
+        "company": "Government",
+        "leftAt": 2016
+      },
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Software Engineer",
+        "company": "Startup",
+        "leftAt": 2020
+      }
+    ]
   },
   {
     "firstName": "Marie",
@@ -427,7 +717,21 @@
       "zipCode": "69006",
       "country": "France"
     },
-    "yearlyIncome": 53566
+    "yearlyIncome": 53566,
+    "jobHistory": [
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Artist",
+        "company": "Startup",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Engineer",
+        "company": "Microsoft",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Thomas",
@@ -449,7 +753,27 @@
       "zipCode": "1000",
       "country": "Belgique"
     },
-    "yearlyIncome": 54100
+    "yearlyIncome": 54100,
+    "jobHistory": [
+      {
+        "joinedAt": 2009,
+        "jobTitle": "Researcher",
+        "company": "Microsoft",
+        "leftAt": 2013
+      },
+      {
+        "joinedAt": 2013,
+        "jobTitle": "Data Analyst",
+        "company": "Government",
+        "leftAt": 2020
+      },
+      {
+        "joinedAt": 2020,
+        "jobTitle": "Software Engineer",
+        "company": "Startup",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Sophie",
@@ -471,7 +795,15 @@
       "zipCode": "1204",
       "country": "Suisse"
     },
-    "yearlyIncome": 62930
+    "yearlyIncome": 62930,
+    "jobHistory": [
+      {
+        "joinedAt": 2020,
+        "jobTitle": "Accountant",
+        "company": "Tesla",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Lucas",
@@ -493,7 +825,21 @@
       "zipCode": "13008",
       "country": "France"
     },
-    "yearlyIncome": 50623
+    "yearlyIncome": 50623,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Accountant",
+        "company": "Tesla",
+        "leftAt": 2024
+      },
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Teacher",
+        "company": "Apple",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Clara",
@@ -515,7 +861,27 @@
       "zipCode": "75009",
       "country": "France"
     },
-    "yearlyIncome": 54689
+    "yearlyIncome": 54689,
+    "jobHistory": [
+      {
+        "joinedAt": 2005,
+        "jobTitle": "Teacher",
+        "company": "Facebook",
+        "leftAt": 2007
+      },
+      {
+        "joinedAt": 2007,
+        "jobTitle": "Consultant",
+        "company": "Startup",
+        "leftAt": 2017
+      },
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Software Engineer",
+        "company": "Facebook",
+        "leftAt": 2018
+      }
+    ]
   },
   {
     "firstName": "Nathan",
@@ -537,7 +903,21 @@
       "zipCode": "10117",
       "country": "Allemagne"
     },
-    "yearlyIncome": 53244
+    "yearlyIncome": 53244,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Doctor",
+        "company": "Facebook",
+        "leftAt": 2016
+      },
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Teacher",
+        "company": "Startup",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Elena",
@@ -559,7 +939,21 @@
       "zipCode": "00184",
       "country": "Italie"
     },
-    "yearlyIncome": 50359
+    "yearlyIncome": 50359,
+    "jobHistory": [
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Engineer",
+        "company": "Amazon",
+        "leftAt": 2020
+      },
+      {
+        "joinedAt": 2020,
+        "jobTitle": "Engineer",
+        "company": "Facebook",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "David",
@@ -581,7 +975,15 @@
       "zipCode": "W1U 8ED",
       "country": "Royaume-Uni"
     },
-    "yearlyIncome": 61760
+    "yearlyIncome": 61760,
+    "jobHistory": [
+      {
+        "joinedAt": 2003,
+        "jobTitle": "Teacher",
+        "company": "Google",
+        "leftAt": 2005
+      }
+    ]
   },
   {
     "firstName": "Emma",
@@ -603,7 +1005,15 @@
       "zipCode": "90012",
       "country": "États-Unis"
     },
-    "yearlyIncome": 61230
+    "yearlyIncome": 61230,
+    "jobHistory": [
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Consultant",
+        "company": "Government",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Léo",
@@ -620,7 +1030,15 @@
       "zipCode": "59000",
       "country": "France"
     },
-    "yearlyIncome": 39429
+    "yearlyIncome": 39429,
+    "jobHistory": [
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Artist",
+        "company": "Startup",
+        "leftAt": 2020
+      }
+    ]
   },
   {
     "firstName": "Camille",
@@ -644,7 +1062,27 @@
       "zipCode": "1050",
       "country": "Belgique"
     },
-    "yearlyIncome": 63107
+    "yearlyIncome": 63107,
+    "jobHistory": [
+      {
+        "joinedAt": 2013,
+        "jobTitle": "Consultant",
+        "company": "Startup",
+        "leftAt": 2017
+      },
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Researcher",
+        "company": "Apple",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Artist",
+        "company": "Apple",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Hugo",
@@ -662,7 +1100,21 @@
       "zipCode": "1202",
       "country": "Suisse"
     },
-    "yearlyIncome": 62890
+    "yearlyIncome": 62890,
+    "jobHistory": [
+      {
+        "joinedAt": 2002,
+        "jobTitle": "Engineer",
+        "company": "Google",
+        "leftAt": 2009
+      },
+      {
+        "joinedAt": 2009,
+        "jobTitle": "Software Engineer",
+        "company": "Apple",
+        "leftAt": 2016
+      }
+    ]
   },
   {
     "firstName": "Inès",
@@ -687,7 +1139,15 @@
       "zipCode": "69001",
       "country": "France"
     },
-    "yearlyIncome": 55324
+    "yearlyIncome": 55324,
+    "jobHistory": [
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Data Analyst",
+        "company": "Tesla",
+        "leftAt": 2025
+      }
+    ]
   },
   {
     "firstName": "Arthur",
@@ -705,7 +1165,33 @@
       "zipCode": "H3B 1E5",
       "country": "Canada"
     },
-    "yearlyIncome": 30995
+    "yearlyIncome": 30995,
+    "jobHistory": [
+      {
+        "joinedAt": 2005,
+        "jobTitle": "Consultant",
+        "company": "Government",
+        "leftAt": 2011
+      },
+      {
+        "joinedAt": 2011,
+        "jobTitle": "Accountant",
+        "company": "Government",
+        "leftAt": 2014
+      },
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Business Owner",
+        "company": "Amazon",
+        "leftAt": 2019
+      },
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Artist",
+        "company": "Startup",
+        "leftAt": 2023
+      }
+    ]
   },
   {
     "firstName": "Louise",
@@ -729,7 +1215,15 @@
       "zipCode": "33000",
       "country": "France"
     },
-    "yearlyIncome": 64950
+    "yearlyIncome": 64950,
+    "jobHistory": [
+      {
+        "joinedAt": 2011,
+        "jobTitle": "Business Owner",
+        "company": "Google",
+        "leftAt": 2013
+      }
+    ]
   },
   {
     "firstName": "Noah",
@@ -751,7 +1245,27 @@
       "zipCode": "80331",
       "country": "Allemagne"
     },
-    "yearlyIncome": 69496
+    "yearlyIncome": 69496,
+    "jobHistory": [
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Doctor",
+        "company": "Apple",
+        "leftAt": 2018
+      },
+      {
+        "joinedAt": 2018,
+        "jobTitle": "Artist",
+        "company": "Apple",
+        "leftAt": 2019
+      },
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Data Analyst",
+        "company": "Apple",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Elisa",
@@ -770,7 +1284,21 @@
       "zipCode": "28013",
       "country": "Espagne"
     },
-    "yearlyIncome": 53068
+    "yearlyIncome": 53068,
+    "jobHistory": [
+      {
+        "joinedAt": 2003,
+        "jobTitle": "Software Engineer",
+        "company": "Google",
+        "leftAt": 2012
+      },
+      {
+        "joinedAt": 2012,
+        "jobTitle": "Teacher",
+        "company": "Microsoft",
+        "leftAt": 2021
+      }
+    ]
   },
   {
     "firstName": "Matteo",
@@ -796,7 +1324,15 @@
       "zipCode": "20121",
       "country": "Italie"
     },
-    "yearlyIncome": 70111
+    "yearlyIncome": 70111,
+    "jobHistory": [
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Doctor",
+        "company": "Apple",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Samantha",
@@ -815,7 +1351,15 @@
       "zipCode": "94110",
       "country": "États-Unis"
     },
-    "yearlyIncome": 53198
+    "yearlyIncome": 53198,
+    "jobHistory": [
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Accountant",
+        "company": "Amazon",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Yohan",
@@ -836,7 +1380,27 @@
       "zipCode": "44000",
       "country": "France"
     },
-    "yearlyIncome": 52500
+    "yearlyIncome": 52500,
+    "jobHistory": [
+      {
+        "joinedAt": 2009,
+        "jobTitle": "Doctor",
+        "company": "Amazon",
+        "leftAt": 2013
+      },
+      {
+        "joinedAt": 2013,
+        "jobTitle": "Data Analyst",
+        "company": "Government",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Researcher",
+        "company": "Apple",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Natalie",
@@ -856,7 +1420,15 @@
       "zipCode": "31000",
       "country": "France"
     },
-    "yearlyIncome": 42101
+    "yearlyIncome": 42101,
+    "jobHistory": [
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Artist",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Carlos",
@@ -879,7 +1451,15 @@
       "zipCode": "08019",
       "country": "Espagne"
     },
-    "yearlyIncome": 59853
+    "yearlyIncome": 59853,
+    "jobHistory": [
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Doctor",
+        "company": "Government",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Aline",
@@ -897,7 +1477,33 @@
       "zipCode": "06010",
       "country": "Mexique"
     },
-    "yearlyIncome": 43801
+    "yearlyIncome": 43801,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Data Analyst",
+        "company": "Tesla",
+        "leftAt": 2015
+      },
+      {
+        "joinedAt": 2015,
+        "jobTitle": "Accountant",
+        "company": "None (Self-Employed)",
+        "leftAt": 2016
+      },
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Business Owner",
+        "company": "Government",
+        "leftAt": 2023
+      },
+      {
+        "joinedAt": 2023,
+        "jobTitle": "Software Engineer",
+        "company": "Facebook",
+        "leftAt": 2024
+      }
+    ]
   },
   {
     "firstName": "Erik",
@@ -920,7 +1526,21 @@
       "zipCode": "11152",
       "country": "Suède"
     },
-    "yearlyIncome": 61314
+    "yearlyIncome": 61314,
+    "jobHistory": [
+      {
+        "joinedAt": 2005,
+        "jobTitle": "Engineer",
+        "company": "None (Self-Employed)",
+        "leftAt": 2010
+      },
+      {
+        "joinedAt": 2010,
+        "jobTitle": "Artist",
+        "company": "Microsoft",
+        "leftAt": 2017
+      }
+    ]
   },
   {
     "firstName": "Adrien",
@@ -942,7 +1562,27 @@
       "zipCode": "75010",
       "country": "France"
     },
-    "yearlyIncome": 51515
+    "yearlyIncome": 51515,
+    "jobHistory": [
+      {
+        "joinedAt": 2011,
+        "jobTitle": "Data Analyst",
+        "company": "Microsoft",
+        "leftAt": 2015
+      },
+      {
+        "joinedAt": 2015,
+        "jobTitle": "Doctor",
+        "company": "Apple",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Data Analyst",
+        "company": "IBM",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Emma",
@@ -959,7 +1599,27 @@
       "zipCode": "1000",
       "country": "Belgique"
     },
-    "yearlyIncome": 35038
+    "yearlyIncome": 35038,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Artist",
+        "company": "Government",
+        "leftAt": 2020
+      },
+      {
+        "joinedAt": 2020,
+        "jobTitle": "Consultant",
+        "company": "Amazon",
+        "leftAt": 2023
+      },
+      {
+        "joinedAt": 2023,
+        "jobTitle": "Researcher",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Lucas",
@@ -977,7 +1637,21 @@
       "zipCode": "1204",
       "country": "Suisse"
     },
-    "yearlyIncome": 53547
+    "yearlyIncome": 53547,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Doctor",
+        "company": "None (Self-Employed)",
+        "leftAt": 2019
+      },
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Accountant",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Sophie",
@@ -1003,7 +1677,15 @@
       "zipCode": "69003",
       "country": "France"
     },
-    "yearlyIncome": 67127
+    "yearlyIncome": 67127,
+    "jobHistory": [
+      {
+        "joinedAt": 2018,
+        "jobTitle": "Data Analyst",
+        "company": "Amazon",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Nathan",
@@ -1017,7 +1699,39 @@
       "zipCode": "H2X 3R2",
       "country": "Canada"
     },
-    "yearlyIncome": 44224
+    "yearlyIncome": 44224,
+    "jobHistory": [
+      {
+        "joinedAt": 2004,
+        "jobTitle": "Software Engineer",
+        "company": "Tesla",
+        "leftAt": 2010
+      },
+      {
+        "joinedAt": 2010,
+        "jobTitle": "Engineer",
+        "company": "Google",
+        "leftAt": 2013
+      },
+      {
+        "joinedAt": 2013,
+        "jobTitle": "Engineer",
+        "company": "Microsoft",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Software Engineer",
+        "company": "Microsoft",
+        "leftAt": 2023
+      },
+      {
+        "joinedAt": 2023,
+        "jobTitle": "Researcher",
+        "company": "IBM",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Léa",
@@ -1039,7 +1753,21 @@
       "zipCode": "33000",
       "country": "France"
     },
-    "yearlyIncome": 61632
+    "yearlyIncome": 61632,
+    "jobHistory": [
+      {
+        "joinedAt": 2013,
+        "jobTitle": "Consultant",
+        "company": "Government",
+        "leftAt": 2023
+      },
+      {
+        "joinedAt": 2023,
+        "jobTitle": "Data Analyst",
+        "company": "Apple",
+        "leftAt": 2025
+      }
+    ]
   },
   {
     "firstName": "Hugo",
@@ -1056,7 +1784,27 @@
       "zipCode": "10117",
       "country": "Allemagne"
     },
-    "yearlyIncome": 51216
+    "yearlyIncome": 51216,
+    "jobHistory": [
+      {
+        "joinedAt": 2009,
+        "jobTitle": "Business Owner",
+        "company": "Government",
+        "leftAt": 2017
+      },
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Teacher",
+        "company": "Amazon",
+        "leftAt": 2023
+      },
+      {
+        "joinedAt": 2023,
+        "jobTitle": "Teacher",
+        "company": "Startup",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Elena",
@@ -1075,7 +1823,15 @@
       "zipCode": "00184",
       "country": "Italie"
     },
-    "yearlyIncome": 33618
+    "yearlyIncome": 33618,
+    "jobHistory": [
+      {
+        "joinedAt": 2021,
+        "jobTitle": "Consultant",
+        "company": "Amazon",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "David",
@@ -1094,7 +1850,21 @@
       "zipCode": "W1U 8ED",
       "country": "Royaume-Uni"
     },
-    "yearlyIncome": 69080
+    "yearlyIncome": 69080,
+    "jobHistory": [
+      {
+        "joinedAt": 2000,
+        "jobTitle": "Teacher",
+        "company": "Google",
+        "leftAt": 2009
+      },
+      {
+        "joinedAt": 2009,
+        "jobTitle": "Engineer",
+        "company": "Tesla",
+        "leftAt": 2017
+      }
+    ]
   },
   {
     "firstName": "Olivia",
@@ -1112,7 +1882,15 @@
       "zipCode": "92101",
       "country": "États-Unis"
     },
-    "yearlyIncome": 29967
+    "yearlyIncome": 29967,
+    "jobHistory": [
+      {
+        "joinedAt": 2028,
+        "jobTitle": "Accountant",
+        "company": "Facebook",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Pierre",
@@ -1131,7 +1909,27 @@
       "zipCode": "08019",
       "country": "Espagne"
     },
-    "yearlyIncome": 68309
+    "yearlyIncome": 68309,
+    "jobHistory": [
+      {
+        "joinedAt": 2007,
+        "jobTitle": "Teacher",
+        "company": "Startup",
+        "leftAt": 2016
+      },
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Data Analyst",
+        "company": "Microsoft",
+        "leftAt": 2017
+      },
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Researcher",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Camille",
@@ -1152,7 +1950,21 @@
       "zipCode": "75009",
       "country": "France"
     },
-    "yearlyIncome": 39429
+    "yearlyIncome": 39429,
+    "jobHistory": [
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Data Analyst",
+        "company": "IBM",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Business Owner",
+        "company": "Microsoft",
+        "leftAt": 2025
+      }
+    ]
   },
   {
     "firstName": "Martin",
@@ -1170,7 +1982,27 @@
       "zipCode": "06010",
       "country": "Mexique"
     },
-    "yearlyIncome": 62689
+    "yearlyIncome": 62689,
+    "jobHistory": [
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Researcher",
+        "company": "Google",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Artist",
+        "company": "Amazon",
+        "leftAt": 2024
+      },
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Teacher",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Erik",
@@ -1191,7 +2023,27 @@
       "zipCode": "11152",
       "country": "Suède"
     },
-    "yearlyIncome": 59640
+    "yearlyIncome": 59640,
+    "jobHistory": [
+      {
+        "joinedAt": 2013,
+        "jobTitle": "Accountant",
+        "company": "Tesla",
+        "leftAt": 2021
+      },
+      {
+        "joinedAt": 2021,
+        "jobTitle": "Teacher",
+        "company": "Tesla",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Data Analyst",
+        "company": "IBM",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Yasmin",
@@ -1209,7 +2061,15 @@
       "zipCode": "01000-000",
       "country": "Brésil"
     },
-    "yearlyIncome": 40531
+    "yearlyIncome": 40531,
+    "jobHistory": [
+      {
+        "joinedAt": 2025,
+        "jobTitle": "Consultant",
+        "company": "Startup",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Carlos",
@@ -1231,7 +2091,15 @@
       "zipCode": "28013",
       "country": "Espagne"
     },
-    "yearlyIncome": 49776
+    "yearlyIncome": 49776,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Artist",
+        "company": "Tesla",
+        "leftAt": 2017
+      }
+    ]
   },
   {
     "firstName": "Elena",
@@ -1249,7 +2117,21 @@
       "zipCode": "01030",
       "country": "Ukraine"
     },
-    "yearlyIncome": 39762
+    "yearlyIncome": 39762,
+    "jobHistory": [
+      {
+        "joinedAt": 2006,
+        "jobTitle": "Business Owner",
+        "company": "Apple",
+        "leftAt": 2009
+      },
+      {
+        "joinedAt": 2009,
+        "jobTitle": "Teacher",
+        "company": "Google",
+        "leftAt": 2015
+      }
+    ]
   },
   {
     "firstName": "Johan",
@@ -1268,7 +2150,27 @@
       "zipCode": "11151",
       "country": "Suède"
     },
-    "yearlyIncome": 78041
+    "yearlyIncome": 78041,
+    "jobHistory": [
+      {
+        "joinedAt": 2003,
+        "jobTitle": "Consultant",
+        "company": "Tesla",
+        "leftAt": 2004
+      },
+      {
+        "joinedAt": 2004,
+        "jobTitle": "Teacher",
+        "company": "Google",
+        "leftAt": 2006
+      },
+      {
+        "joinedAt": 2006,
+        "jobTitle": "Software Engineer",
+        "company": "Facebook",
+        "leftAt": 2008
+      }
+    ]
   },
   {
     "firstName": "Ming",
@@ -1290,7 +2192,21 @@
       "zipCode": "100000",
       "country": "Chine"
     },
-    "yearlyIncome": 48586
+    "yearlyIncome": 48586,
+    "jobHistory": [
+      {
+        "joinedAt": 2011,
+        "jobTitle": "Consultant",
+        "company": "Microsoft",
+        "leftAt": 2017
+      },
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Researcher",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Sara",
@@ -1308,7 +2224,21 @@
       "zipCode": "00100",
       "country": "Finlande"
     },
-    "yearlyIncome": 58749
+    "yearlyIncome": 58749,
+    "jobHistory": [
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Consultant",
+        "company": "Microsoft",
+        "leftAt": 2017
+      },
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Software Engineer",
+        "company": "Facebook",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Giovanni",
@@ -1326,7 +2256,27 @@
       "zipCode": "50123",
       "country": "Italie"
     },
-    "yearlyIncome": 38365
+    "yearlyIncome": 38365,
+    "jobHistory": [
+      {
+        "joinedAt": 2010,
+        "jobTitle": "Artist",
+        "company": "Google",
+        "leftAt": 2016
+      },
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Teacher",
+        "company": "Google",
+        "leftAt": 2018
+      },
+      {
+        "joinedAt": 2018,
+        "jobTitle": "Business Owner",
+        "company": "Amazon",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Sofia",
@@ -1345,7 +2295,21 @@
       "zipCode": "C1005AAU",
       "country": "Argentine"
     },
-    "yearlyIncome": 68337
+    "yearlyIncome": 68337,
+    "jobHistory": [
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Artist",
+        "company": "Government",
+        "leftAt": 2018
+      },
+      {
+        "joinedAt": 2018,
+        "jobTitle": "Consultant",
+        "company": "Microsoft",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Yuki",
@@ -1363,7 +2327,15 @@
       "zipCode": "150-0002",
       "country": "Japon"
     },
-    "yearlyIncome": 30387
+    "yearlyIncome": 30387,
+    "jobHistory": [
+      {
+        "joinedAt": 2023,
+        "jobTitle": "Doctor",
+        "company": "Apple",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Amara",
@@ -1382,7 +2354,21 @@
       "zipCode": "11511",
       "country": "Égypte"
     },
-    "yearlyIncome": 67190
+    "yearlyIncome": 67190,
+    "jobHistory": [
+      {
+        "joinedAt": 2004,
+        "jobTitle": "Software Engineer",
+        "company": "IBM",
+        "leftAt": 2012
+      },
+      {
+        "joinedAt": 2012,
+        "jobTitle": "Software Engineer",
+        "company": "Tesla",
+        "leftAt": 2014
+      }
+    ]
   },
   {
     "firstName": "Liam",
@@ -1401,7 +2387,15 @@
       "zipCode": "D01 F5P2",
       "country": "Irlande"
     },
-    "yearlyIncome": 32166
+    "yearlyIncome": 32166,
+    "jobHistory": [
+      {
+        "joinedAt": 2012,
+        "jobTitle": "Teacher",
+        "company": "Google",
+        "leftAt": 2017
+      }
+    ]
   },
   {
     "firstName": "Natalia",
@@ -1420,7 +2414,21 @@
       "zipCode": "101000",
       "country": "Russie"
     },
-    "yearlyIncome": 63336
+    "yearlyIncome": 63336,
+    "jobHistory": [
+      {
+        "joinedAt": 2008,
+        "jobTitle": "Accountant",
+        "company": "Facebook",
+        "leftAt": 2018
+      },
+      {
+        "joinedAt": 2018,
+        "jobTitle": "Accountant",
+        "company": "Google",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Ahmed",
@@ -1438,7 +2446,15 @@
       "zipCode": "54000",
       "country": "Pakistan"
     },
-    "yearlyIncome": 42287
+    "yearlyIncome": 42287,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Accountant",
+        "company": "Government",
+        "leftAt": 2022
+      }
+    ]
   },
   {
     "firstName": "Isabella",
@@ -1456,7 +2472,15 @@
       "zipCode": "06000",
       "country": "Mexique"
     },
-    "yearlyIncome": 53111
+    "yearlyIncome": 53111,
+    "jobHistory": [
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Teacher",
+        "company": "Government",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Oliver",
@@ -1474,7 +2498,15 @@
       "zipCode": "2026",
       "country": "Australie"
     },
-    "yearlyIncome": 35036
+    "yearlyIncome": 35036,
+    "jobHistory": [
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Researcher",
+        "company": "Amazon",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Fatima",
@@ -1493,7 +2525,15 @@
       "zipCode": "11564",
       "country": "Arabie Saoudite"
     },
-    "yearlyIncome": 64479
+    "yearlyIncome": 64479,
+    "jobHistory": [
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Software Engineer",
+        "company": "Apple",
+        "leftAt": 2022
+      }
+    ]
   },
   {
     "firstName": "Alejandro",
@@ -1515,7 +2555,15 @@
       "zipCode": "W1D 1BS",
       "country": "Royaume-Uni"
     },
-    "yearlyIncome": 62967
+    "yearlyIncome": 62967,
+    "jobHistory": [
+      {
+        "joinedAt": 2013,
+        "jobTitle": "Doctor",
+        "company": "None (Self-Employed)",
+        "leftAt": 2022
+      }
+    ]
   },
   {
     "firstName": "Maria",
@@ -1533,7 +2581,15 @@
       "zipCode": "10117",
       "country": "Allemagne"
     },
-    "yearlyIncome": 38074
+    "yearlyIncome": 38074,
+    "jobHistory": [
+      {
+        "joinedAt": 2008,
+        "jobTitle": "Teacher",
+        "company": "None (Self-Employed)",
+        "leftAt": 2013
+      }
+    ]
   },
   {
     "firstName": "Hassan",
@@ -1551,7 +2607,21 @@
       "zipCode": "10016",
       "country": "États-Unis"
     },
-    "yearlyIncome": 57338
+    "yearlyIncome": 57338,
+    "jobHistory": [
+      {
+        "joinedAt": 2010,
+        "jobTitle": "Business Owner",
+        "company": "Startup",
+        "leftAt": 2019
+      },
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Researcher",
+        "company": "Facebook",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Isabella",
@@ -1574,7 +2644,33 @@
       "zipCode": "M5C 2L9",
       "country": "Canada"
     },
-    "yearlyIncome": 66622
+    "yearlyIncome": 66622,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Researcher",
+        "company": "Tesla",
+        "leftAt": 2018
+      },
+      {
+        "joinedAt": 2018,
+        "jobTitle": "Artist",
+        "company": "Startup",
+        "leftAt": 2022
+      },
+      {
+        "joinedAt": 2022,
+        "jobTitle": "Artist",
+        "company": "Tesla",
+        "leftAt": 2024
+      },
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Researcher",
+        "company": "Government",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Kenji",
@@ -1592,7 +2688,15 @@
       "zipCode": "08007",
       "country": "Espagne"
     },
-    "yearlyIncome": 32347
+    "yearlyIncome": 32347,
+    "jobHistory": [
+      {
+        "joinedAt": 2020,
+        "jobTitle": "Accountant",
+        "company": "Startup",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Fatima",
@@ -1611,7 +2715,21 @@
       "zipCode": "75008",
       "country": "France"
     },
-    "yearlyIncome": 68713
+    "yearlyIncome": 68713,
+    "jobHistory": [
+      {
+        "joinedAt": 2006,
+        "jobTitle": "Accountant",
+        "company": "Startup",
+        "leftAt": 2016
+      },
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Teacher",
+        "company": "Facebook",
+        "leftAt": 2025
+      }
+    ]
   },
   {
     "firstName": "Erik",
@@ -1629,7 +2747,15 @@
       "zipCode": "010801",
       "country": "Roumanie"
     },
-    "yearlyIncome": 40002
+    "yearlyIncome": 40002,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Data Analyst",
+        "company": "Startup",
+        "leftAt": 2024
+      }
+    ]
   },
   {
     "firstName": "Luana",
@@ -1646,7 +2772,15 @@
       "zipCode": "238875",
       "country": "Singapour"
     },
-    "yearlyIncome": 43828
+    "yearlyIncome": 43828,
+    "jobHistory": [
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Engineer",
+        "company": "Facebook",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Javier",
@@ -1668,7 +2802,33 @@
       "zipCode": "2000",
       "country": "Australie"
     },
-    "yearlyIncome": 72757
+    "yearlyIncome": 72757,
+    "jobHistory": [
+      {
+        "joinedAt": 2002,
+        "jobTitle": "Researcher",
+        "company": "None (Self-Employed)",
+        "leftAt": 2005
+      },
+      {
+        "joinedAt": 2005,
+        "jobTitle": "Engineer",
+        "company": "Startup",
+        "leftAt": 2011
+      },
+      {
+        "joinedAt": 2011,
+        "jobTitle": "Consultant",
+        "company": "Government",
+        "leftAt": 2021
+      },
+      {
+        "joinedAt": 2021,
+        "jobTitle": "Data Analyst",
+        "company": "Amazon",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Aisha",
@@ -1687,7 +2847,27 @@
       "zipCode": "10178",
       "country": "Allemagne"
     },
-    "yearlyIncome": 42192
+    "yearlyIncome": 42192,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Software Engineer",
+        "company": "IBM",
+        "leftAt": 2021
+      },
+      {
+        "joinedAt": 2021,
+        "jobTitle": "Engineer",
+        "company": "Microsoft",
+        "leftAt": 2024
+      },
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Engineer",
+        "company": "None (Self-Employed)",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Victor",
@@ -1705,7 +2885,21 @@
       "zipCode": "10038",
       "country": "États-Unis"
     },
-    "yearlyIncome": 53152
+    "yearlyIncome": 53152,
+    "jobHistory": [
+      {
+        "joinedAt": 2011,
+        "jobTitle": "Software Engineer",
+        "company": "Facebook",
+        "leftAt": 2021
+      },
+      {
+        "joinedAt": 2021,
+        "jobTitle": "Consultant",
+        "company": "Tesla",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Elif",
@@ -1722,7 +2916,39 @@
       "zipCode": "W1J 9HS",
       "country": "Royaume-Uni"
     },
-    "yearlyIncome": 31700
+    "yearlyIncome": 31700,
+    "jobHistory": [
+      {
+        "joinedAt": 2014,
+        "jobTitle": "Teacher",
+        "company": "Apple",
+        "leftAt": 2016
+      },
+      {
+        "joinedAt": 2016,
+        "jobTitle": "Researcher",
+        "company": "Tesla",
+        "leftAt": 2019
+      },
+      {
+        "joinedAt": 2019,
+        "jobTitle": "Researcher",
+        "company": "Facebook",
+        "leftAt": 2021
+      },
+      {
+        "joinedAt": 2021,
+        "jobTitle": "Engineer",
+        "company": "Microsoft",
+        "leftAt": 2024
+      },
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Engineer",
+        "company": "Google",
+        "leftAt": 2025
+      }
+    ]
   },
   {
     "firstName": "Chang",
@@ -1740,7 +2966,27 @@
       "zipCode": "06000",
       "country": "France"
     },
-    "yearlyIncome": 50148
+    "yearlyIncome": 50148,
+    "jobHistory": [
+      {
+        "joinedAt": 2011,
+        "jobTitle": "Consultant",
+        "company": "None (Self-Employed)",
+        "leftAt": 2017
+      },
+      {
+        "joinedAt": 2017,
+        "jobTitle": "Artist",
+        "company": "None (Self-Employed)",
+        "leftAt": 2021
+      },
+      {
+        "joinedAt": 2021,
+        "jobTitle": "Researcher",
+        "company": "None (Self-Employed)",
+        "leftAt": null
+      }
+    ]
   },
   {
     "firstName": "Helena",
@@ -1759,6 +3005,20 @@
       "zipCode": "10036",
       "country": "États-Unis"
     },
-    "yearlyIncome": 30393
+    "yearlyIncome": 30393,
+    "jobHistory": [
+      {
+        "joinedAt": 2021,
+        "jobTitle": "Business Owner",
+        "company": "Government",
+        "leftAt": 2024
+      },
+      {
+        "joinedAt": 2024,
+        "jobTitle": "Artist",
+        "company": "None (Self-Employed)",
+        "leftAt": null
+      }
+    ]
   }
 ]
