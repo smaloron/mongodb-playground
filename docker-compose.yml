@@ -1,16 +1,66 @@
 services:
-  mongodb:
+  mongo1:
     image: mongo:latest
-    container_name: mongo-container
+    container_name: mongo1
     restart: always
+    command: ["mongod", "--replSet", "rs0", "--bind_ip", "0.0.0.0"]
     ports:
-      - "27025:27017"
-    environment:
-      MONGO_INITDB_ROOT_USERNAME: admin
-      MONGO_INITDB_ROOT_PASSWORD: 123
+      - "27020:27017"
+    networks:
+      - mongo-network
     volumes:
-      - mongodb_data:/data/db
-      - ./data:/shared
+      - mongo1_data:/data/db
 
+  mongo2:
+    image: mongo:latest
+    container_name: mongo2
+    restart: always
+    command: ["mongod", "--replSet", "rs0", "--bind_ip", "0.0.0.0"]
+    ports:
+      - "27021:27017"
+    networks:
+      - mongo-network
+    volumes:
+      - mongo2_data:/data/db
+
+  mongo3:
+    image: mongo:latest
+    container_name: mongo3
+    restart: always
+    command: ["mongod", "--replSet", "rs0", "--bind_ip", "0.0.0.0"]
+    ports:
+      - "27022:27017"
+    networks:
+      - mongo-network
+    volumes:
+      - mongo3_data:/data/db
+
+  mongo-arbiter:
+    image: mongo:latest
+    container_name: mongo-arbiter
+    restart: always
+    command: ["mongod", "--replSet", "rs0", "--bind_ip", "0.0.0.0"]
+    networks:
+      - mongo-network
+
+  setup:
+    image: mongo:latest
+    container_name: mongo-setup
+    depends_on:
+      - mongo1
+      - mongo2
+      - mongo3
+      - mongo-arbiter
+    entrypoint: [ "bash", "-c", "sleep 10 && mongosh --host mongo1:27017 /scripts/replica-init.js" ]
+    volumes:
+      - ./scripts:/scripts
+    networks:
+      - mongo-network
+
+networks:
+  mongo-network:
+    driver: bridge
 volumes:
-  mongodb_data:
+  mongo1_data:
+  mongo2_data:
+  mongo3_data:
